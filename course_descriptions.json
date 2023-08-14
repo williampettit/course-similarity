@@ -1,0 +1,3498 @@
+{
+  "CSCI 1100-1100L": {
+    "title": "Topics in Computing",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Fundamental concepts of computing and information science and their application to everyday computer use. Topics include data representation, addressing and mapping, network protocols, standards, data exchange, encryption and security, mathematical modeling, and data modeling. Hands-on labs emphasize problem-solving using software to collect and analyze data, and evaluate and present results."
+  },
+  "CSCI 1210": {
+    "title": "Computer Modeling and Science",
+    "offered": [],
+    "hours": 3,
+    "requirements": [],
+    "description": "Introduction to computer models used as tools of scientific investigation, including historically important examples in the natural and social sciences. Lectures cover topics of current public interest, including economics, epidemiology, and ecological sustainability."
+  },
+  "CSCI 1300-1300L": {
+    "title": "Introduction to Programming with Python",
+    "offered": [],
+    "hours": 4,
+    "requirements": [],
+    "description": "Introduction to algorithmic problem solving using the Python programming language. Basic techniques of program development and supportive software tools. Programming projects."
+  },
+  "CSCI 1301E": {
+    "title": "Introduction to Computing and Programming",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113E",
+      "MATH 1113"
+    ],
+    "description": "Algorithms, programs, and computing systems. Fundamental techniques of program development and supportive software tools. Programming projects and applications in a structured computer language. Hands-on experience using microcomputers."
+  },
+  "CSCI 1301-1301L": {
+    "title": "Introduction to Computing and Programming",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113E",
+      "MATH 1113"
+    ],
+    "description": "Algorithms, programs, and computing systems. Fundamental techniques of program development and supportive software tools. Programming projects and applications in a structured computer language. Hands-on experience using microcomputers."
+  },
+  "CSCI 1302": {
+    "title": "Software Development",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 1301-1301L"
+    ],
+    "description": "Software development techniques in an object-oriented computer language. An intermediate programming course emphasizing systems methods, top-down design, testing, modularity, and structured techniques. Applications from areas of numeric and non-numeric processing and data structures."
+  },
+  "CSCI 1360E": {
+    "title": "Foundations for Informatics and Data Analytics",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113E",
+      "MATH 1113"
+    ],
+    "description": "Provides an introduction to concepts in scientific programming and data science using the Python language. Students are given hands-on opportunities to learn techniques applicable to quantitative analysis across a broad range of fields. Core programming concepts are taught in tandem with real-world applications."
+  },
+  "CSCI 1360": {
+    "title": "Foundations for Informatics and Data Analytics",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113E",
+      "MATH 1113"
+    ],
+    "description": "An introduction to concepts in scientific programming and data science using the Python language. Students are given hands-on opportunities to learn techniques applicable to quantitative analyses across a broad range of fields. Core programming concepts are taught in tandem with real-world applications."
+  },
+  "CSCI 1730E": {
+    "title": "Systems Programming",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 1302"
+    ],
+    "description": "Programs and programming techniques used in systems programming in Unix environments. Focus on Unix system call interfaces and the interface between the Unix kernel and application software running in Unix environments. Students will learn the basics of Unix systems programming, including file and directory structures, basic and advanced file I/O, process creation, and inter-process communication."
+  },
+  "CSCI 1730": {
+    "title": "Systems Programming",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 1302"
+    ],
+    "description": "Programs and programming techniques used in systems programming in Unix environments. Focus on Unix system call interfaces and the interface between the Unix kernel and application software running in Unix environments. Students will learn the basics of Unix systems programming, including file and directory structures, basic and advanced file I/O, process creation, and inter-process communication."
+  },
+  "CSCI 1900": {
+    "title": "Computer Science Special Topic",
+    "offered": [],
+    "hours": 1,
+    "requirements": [
+      "CSCI 1301-1301L"
+    ],
+    "description": "A topic in elementary computer science not covered by any other lower-division computer science course."
+  },
+  "CSCI 2150-2150L": {
+    "title": "Introduction to Computational Science",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113"
+    ],
+    "description": "Basic topics of scientific computing that are necessary for science and engineering students. Solving mathematical problems by different numerical methods. Quantitative reasoning concepts will be emphasized in comparing and verification of the correctness of the solutions. Mathematical software packages will be used. This course is intended for freshman and sophomore students."
+  },
+  "CSCI 2610E": {
+    "title": "Discrete Mathematics for Computer Science",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113E",
+      "MATH 1113"
+    ],
+    "description": "A survey of the fundamental mathematical tools used in Computer Science: sets, relations, and functions; propositional and predicate logic; proof-writing strategies such as direct, contradiction, and induction; summations and recurrences; elementary asymptotics and timing analysis; and counting and discrete probability with applications in computer science."
+  },
+  "CSCI 2610": {
+    "title": "Discrete Mathematics for Computer Science",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113"
+    ],
+    "description": "A survey of the fundamental mathematical tools used in Computer Science: sets, relations, and functions; propositional and predicate logic; proof writing strategies such as direct, contradiction, and induction; summations and recurrences; elementary asymptotics and timing analysis; counting and discrete probability with applications in computer science."
+  },
+  "CSCI 2611": {
+    "title": "Discrete Mathematics for Engineers",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 1113"
+    ],
+    "description": "A survey of the fundamental mathematical tools used in computer engineering: sets, relations, and functions; propositional and predicate logic; proof writing strategies, such as direct, contradiction and induction; summations and recurrences; counting and discrete probability; undirected and directed graphs with applications in computer engineering."
+  },
+  "CSCI 2670E": {
+    "title": "Introduction to Theory of Computing",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2611",
+      "CSCI 2610"
+    ],
+    "description": "The theory of computing, including finite automata, regular expressions and languages, context-free grammars and languages, push-down automata, pumping lemmas, the Chomsky Hierarchy of language classes, Turing machines and computability, undecidability of the halting problem, reducibilities among decision problems and languages, time complexity, and NP-completeness and tractability."
+  },
+  "CSCI 2670": {
+    "title": "Introduction to Theory of Computing",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2611",
+      "CSCI 2610"
+    ],
+    "description": "The theory of computing, including finite automata, regular expressions and languages, context-free grammars and languages, push-down automata, pumping lemmas, the Chomsky hierarchy of language classes, Turing machines and computability, undecidability of the halting problem, reducibilities among decision problems and languages, time and space complexity, and NP-completeness and tractability."
+  },
+  "CSCI 2720": {
+    "title": "Data Structures",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2611",
+      "CSCI 1302",
+      "CSCI 2610",
+      "CSCI 2610E"
+    ],
+    "description": "The design, analysis, and implementation of data structures and their associated algorithms. Lists, stacks, queues and priority queues, trees, graphs, dictionaries, time and space complexity, sorting and searching, advanced problem-solving, and algorithm design strategies."
+  },
+  "CSCI 2725": {
+    "title": "Data Structures for Data Science",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 1302"
+    ],
+    "description": "The design and implementation of data structures. Comparative analysis of algorithms and their applications to solving data science problems. Topics include recursion, lists, stacks, queues and priority queues, trees, graphs, dictionaries, decision trees, disjoint set, tensors, and data frames."
+  },
+  "CSCI 3030E": {
+    "title": "Computing, Ethics, and Society",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "ENGL 1102E",
+      "ENGL 1102"
+    ],
+    "description": "Introduction to social and ethical issues relating to computer science and information technology. Topics include privacy, intellectual property, open source software, the digital divide, globalization, professional ethics, social justice issues, and current events. Students should have a working knowledge of personal computing."
+  },
+  "CSCI 3030": {
+    "title": "Computing, Ethics, and Society",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "ENGL 1102E",
+      "ENGL 1102"
+    ],
+    "description": "Introduction to social and ethical issues relating to computer science and information technology. Topics include privacy, intellectual property, open-source software, the digital divide, globalization, professional ethics, social justice issues, and current events. Students should have a working knowledge of personal computing."
+  },
+  "CSCI 3360": {
+    "title": "Data Science I",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 2250",
+      "CSCI 1360E",
+      "CSCI 2150-2150L",
+      "CSCI 1301E",
+      "MATH 2250E",
+      "CSCI 1301-1301L",
+      "CSCI 1360"
+    ],
+    "description": "A rigorous overview of methods for text mining, image processing, and scientific computing. Core concepts in supervised and unsupervised analytics, dimensionality reduction, and data visualization will be explored in depth."
+  },
+  "CSCI 3360E": {
+    "title": "Data Science I",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 2250",
+      "CSCI 1360E",
+      "CSCI 2150-2150L",
+      "CSCI 1301E",
+      "MATH 2250E",
+      "CSCI 1301-1301L",
+      "CSCI 1360"
+    ],
+    "description": "A rigorous overview of methods for text mining, image processing, and scientific computing. Core concepts in supervised and unsupervised analytics, dimensionality reduction, and data visualization will be explored in depth."
+  },
+  "CSCI 4050E/6050E": {
+    "title": "Software Engineering",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 2725"
+    ],
+    "description": "Full cycle of a software system development effort, including requirements definition, system analysis, design, implementation, and testing. Special emphasis is placed on system analysis and design. The design phase includes development of a user interface. A large term project incorporates the full software life cycle."
+  },
+  "CSCI 4050/6050": {
+    "title": "Software Engineering",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 2725"
+    ],
+    "description": "Full cycle of a software system development effort, including requirements definition, system analysis, design, implementation, and testing. Special emphasis is placed on system analysis and design. The design phase includes development of a user interface. A large term project incorporates the full software life cycle."
+  },
+  "CSCI 4060/6060": {
+    "title": "Mobile Software Development",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720"
+    ],
+    "description": "Introduction to software development for mobile devices, such as smartphones and tablets. Topics include life cycle of mobile applications, mobile UI design, views, widgets, location and maps, local data handling, and interaction with Web services and databases. Students design, implement, and analyze mobile applications."
+  },
+  "CSCI 4070/6070": {
+    "title": "Introduction to Game Programming",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 1730"
+    ],
+    "description": "An introduction to the application of programming methodology to the production of computer and video games, including user education, algorithms, display methods, and sound. This course will begin with two-dimensional games using available standard program libraries."
+  },
+  "CSCI 4080/6080": {
+    "title": "Intermediate Game Programming",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4810/6810",
+      "CSCI 4070/6070"
+    ],
+    "description": "An intermediate treatment of the application of programming methodology to the production of computer and video games, including user interaction, algorithms, modeling and display methods, and sound. Students will develop 3-dimensional games using available standard program libraries."
+  },
+  "CSCI 4130/6130": {
+    "title": "CUDA C Programming on GPUs for High Performance Computing",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 1730"
+    ],
+    "description": "GPUs are high-performance many-core processors. Students will learn massively parallel programming using CUDA C and develop parallel algorithms to solve real problems. Topics include parallel computing, GPUs architecture, threads, performance issues, and floating point representation."
+  },
+  "CSCI 4140/6140": {
+    "title": "Numerical Methods and Computing",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "MATH 2250",
+      "CSCI 2150-2150L",
+      "CSCI 1730"
+    ],
+    "description": "Numerical methods and computing. Topics include: computer arithmetic; numerical solutions of nonlinear equations; polynomial interpolation; numerical differentiation and integration; numerical solutions of systems of linear equations, initial and boundary value problems, systems of ordinary differential equations, spline functions, and the method of least squares."
+  },
+  "CSCI 4150/6150": {
+    "title": "Numerical Simulations in Science and Engineering",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "MATH 2250",
+      "CSCI 1301-1301L"
+    ],
+    "description": "Computationally oriented, covering a wide range of topics that are necessary for numerical simulation in science and engineering. Sequential and parallel numerical methods will be introduced. Available symbolic and numerical software packages (e.g., Matlab, Maple and MPI) and visualization tools will be used in the mathematical simulations."
+  },
+  "CSCI 4170/6170": {
+    "title": "Introduction to Computational Investing",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 1730"
+    ],
+    "description": "An introduction to implementing computational-based trading strategies from information gathering to market ordering and trading, including probabilistic machine-learning approaches to situational analysis and to trading decisions. We consider approaches like linear regression, decision trees, K nearest neighbors, and reinforcement learning and apply them to real- world trading."
+  },
+  "CSCI 4210/6210": {
+    "title": "Simulation and Modeling",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 2725"
+    ],
+    "description": "The modeling and simulation of existing or planned systems for the purpose of studying their correctness, reliability, or performance. Topics to be addressed include discrete-event simulation, continuous simulation, analysis and modeling methodologies, animation, virtual reality, and Web-based simulation."
+  },
+  "CSCI 4250/6250": {
+    "title": "Cyber Security",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4730/6730",
+      "CSCI 4760/6760"
+    ],
+    "description": "Basic concepts of computer security and the theory and current practices of authentication, authorization, and privacy mechanisms in modern operating systems and networks."
+  },
+  "CSCI 4260/6260": {
+    "title": "Data Security and Privacy",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 1302"
+    ],
+    "description": "Examination of security and privacy issues related to protecting personal data in various environments (for example: cloud computing, smart grid, and internet of things) cover the fundamentals and principles of data security and privacy, and computational and statistical techniques for constructing secure and private systems."
+  },
+  "CSCI 4270/6270": {
+    "title": "Introduction to Computer Forensics",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4730/6730",
+      "CSCI 4250/6250"
+    ],
+    "description": "The principles and practice of computer forensics. Topics include computer crime, software vulnerabilities, intellectual property, privacy issues, countermeasures, methods and standards for extraction, preservation, and deposition of legal evidence in a court of law."
+  },
+  "CSCI 4300": {
+    "title": "Web Programming",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 1302"
+    ],
+    "description": "Client-side and server-side techniques for use on the World Wide Web. Interactive, dynamically-generated, and database-enabled web pages are discussed. Course content changes frequently to incorporate new Internet technologies."
+  },
+  "CSCI 4330/6330": {
+    "title": "Artificial Intelligence and the Web",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720"
+    ],
+    "description": "The application of artificial intelligence methodologies and algorithms to problems involving the world wide web. Introduction to problem-solving, knowledge representation, learning, and reasoning techniques and exploration of how they are applied to enable information provisioning, social networking, and service provisioning on the web."
+  },
+  "CSCI 4350/6350": {
+    "title": "Global Information Systems",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4300"
+    ],
+    "description": "Provides intermediate to advanced understanding of the use of Internet, World Wide Web, and network computing (including Java) technologies for management (search, access, integration, presentation) of multimedia information. Topics discussed include key techniques, tools and technologies for creating such systems, developing novel applications, and their impact on business."
+  },
+  "CSCI 4360/6360": {
+    "title": "Data Science II",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 3360"
+    ],
+    "description": "An introduction to advanced analytics techniques in data science, including random forests, semi-supervised learning, spectral analytics, randomized algorithms, and just-in-time compilers. Distributed and out-of-core processing."
+  },
+  "CSCI 4370/6370": {
+    "title": "Database Management",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 2725"
+    ],
+    "description": "The theory and practice of database management. Topics to be covered include efficient file access techniques, the relational data model as well as other data models, query languages, database design using entity-relationship diagrams and normalization theory, query optimization, and transaction processing."
+  },
+  "CSCI 4380/6380": {
+    "title": "Data Mining",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 2725"
+    ],
+    "description": "A broad introduction to data mining methods and an exploration of research problems in data mining and its applications in complex real-world domains. Approaches include association and classification rule learning, tree learning, neural network and Bayesian methods, support vector machines, clustering, and ensemble learning."
+  },
+  "CSCI 4470/6470": {
+    "title": "Algorithms",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 2670E",
+      "CSCI 2670",
+      "CSCI 2725"
+    ],
+    "description": "Algorithms, covering basic analysis techniques, basic design techniques (divide-and-conquer, dynamic programming, greedy, and branch-and-bound), basic graph algorithms, and NP-completeness."
+  },
+  "CSCI 4490/6490": {
+    "title": "Algorithms for Computational Biology",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4470/6470"
+    ],
+    "description": "Application of discrete algorithms to computational problems in molecular biology. Topics are drawn from such areas as classical sequence comparison, multiple sequence alignment, DNA sequence assembly, DNA physical mapping, genome rearrangement, evolutionary tree construction, and protein folding. Background in molecular biology is not required."
+  },
+  "CSCI 4500/6500": {
+    "title": "Programming Languages",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 1302"
+    ],
+    "description": "Several modern programming languages and the paradigm -- procedural programming, object-oriented programming, functional programming, and logic programming -- that each strives to accommodate. Projects involve at least three languages."
+  },
+  "CSCI 4520/6520": {
+    "title": "Functional Programming",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI MATH 2610"
+    ],
+    "description": "The functional programming paradigm: functions and types, type inference and polymorphism, higher order functions and recursion, evaluation strategies, abstract data types and modules, lists, trees, and lazy data structures, reasoning about functional programs."
+  },
+  "CSCI(ARTI) 4530/6530": {
+    "title": "Introduction to Robotics",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2611",
+      "CSCI 2720",
+      "CSCI 2610"
+    ],
+    "description": "Introduction to the hardware and software involved in autonomous mobile robotics. Course content emphasizes the mathematical and statistical models related to robotic perception and motion, associated algorithms, and their programming in computer- simulated environments. Course structure involves classroom instruction, written and programming assignments, and exams."
+  },
+  "CSCI(ARTI) 4540/6540": {
+    "title": "Symbolic Programming",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "CSCI 1302",
+      "CSCI PHIL 4550/6550"
+    ],
+    "description": "Programming in LISP and PROLOG, with emphasis on artificial intelligence techniques. Other languages used for artificial intelligence work will be presented more briefly."
+  },
+  "CSCI(PHIL) 4550/6550": {
+    "title": "Artificial Intelligence",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "PHIL 2500",
+      "CSCI MATH 2610"
+    ],
+    "description": "The artificial intelligence approach to modeling cognitive processes. Topics include an introduction to heuristic methods, problem representation and search methods, classic AI techniques, and a review of the controversial issues of the AI paradigm of cognition as computation."
+  },
+  "CSCI 4560/6560": {
+    "title": "Evolutionary Computation and Its Applications",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 2725"
+    ],
+    "description": "An in-depth introduction to evolutionary computation methods and an exploration of research problems in evolutionary computation and its applications which may lead to work on a project or a dissertation."
+  },
+  "CSCI 4570/6570": {
+    "title": "Compilers",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4720",
+      "CSCI 6720"
+    ],
+    "description": "Design and implementation of compilers for high-level programming languages. Topics include all phases of a typical compiler, including scanning, parsing, semantic analysis, intermediate code generation, code optimization, and code generation. Students design and develop a compiler for a small programming language. Emphasis is placed on using compiler development tools."
+  },
+  "CSCI(ARTI) 4600/6600": {
+    "title": "Reinforcement Learning",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "CSCI PHIL 4550/6550"
+    ],
+    "description": "Reinforcement learning studies methods for learning to act optimally based on the reward or punishment over time. Such machine learning is useful when we wish to learn high-quality behavior under uncertainty and the only data are reward signals. Introduces classical and modern methods in single- and multi-agent settings."
+  },
+  "CSCI(MATH)(PHYS) 4612/6612": {
+    "title": "Introduction to Quantum Computation",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2670",
+      "MATH 3000"
+    ],
+    "description": "An introduction to quantum computation."
+  },
+  "MATH(CSCI) 4670/6670": {
+    "title": "Combinatorics",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 3300",
+      "CSCI MATH 2610",
+      "MATH 3500",
+      "MATH 3200",
+      "MATH 3000"
+    ],
+    "description": "Basic counting principles: permutations, combinations, probability, occupancy problems, and binomial coefficients. More sophisticated methods include generating functions, recurrence relations, inclusion/exclusion principle, and the pigeonhole principle. Additional topics include asymptotic enumeration, Polya counting theory, combinatorial designs, coding theory, and combinatorial optimization."
+  },
+  "MATH(CSCI) 4690/6690": {
+    "title": "Graph Theory",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 3300",
+      "CSCI 2610",
+      "MATH 3300E",
+      "MATH 3200",
+      "CSCI 2610E",
+      "MATH 3510",
+      "MATH 3000"
+    ],
+    "description": "Elementary theory of graphs and digraphs. Topics include connectivity, reconstruction, trees, Euler's problem, hamiltonicity, network flows, planarity, node and edge colorings, tournaments, matchings, and extremal graphs. A number of algorithms and applications are included."
+  },
+  "CSCI 4720": {
+    "title": "Computer Architecture and Organization",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSEE 2220",
+      "CSCI 2670",
+      "CSEE 2220E",
+      "CSCI 2670E",
+      "CSCI 1730"
+    ],
+    "description": "Design and analysis of the structure and function of modern computing systems. Topics studied include combinational and sequential logic, number systems and computer arithmetic, hardware design and organization of CPU, I/O systems and memory systems, instruction set and assembly language design, performance characterization and measurement, and current trends and developments in computer architecture and organization."
+  },
+  "CSCI 4720E": {
+    "title": "Computer Architecture and Organization",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSEE 2220",
+      "CSCI 2670",
+      "CSCI 1730"
+    ],
+    "description": "Design and analysis of the structure and function of modern computing systems. Topics studied include combinational and sequential logic, number systems and computer arithmetic, hardware design and organization of CPU, I/O systems and memory systems, instruction set and assembly language design, performance characterization and measurement, and current trends and developments in computer architecture and organization."
+  },
+  "CSCI 4730/6730": {
+    "title": "Operating Systems",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 4720",
+      "CSEE 4280",
+      "CSCI 4720E"
+    ],
+    "description": "Coverage of the key concepts in modern operating systems. Specific topics include process management, synchronization mechanisms, scheduling strategies, deadlock detection/avoidance, memory management, file systems, protection and security, and distributed systems. Concepts will be reinforced through programming projects using a realistic operating system."
+  },
+  "CSCI 4740/6740": {
+    "title": "Real-Time Scheduling for the Internet of Things",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720"
+    ],
+    "description": "Basic concepts of real-time systems, with an emphasis on scheduling issues. Consideration of both offline and online scheduling. Online schedules will include static and dynamic priority systems, with and without allowing preemption. Also, consideration of resource sharing and multiprocessor scheduling. Course will include programming projects on a microprocessor."
+  },
+  "CSCI 4760/6760": {
+    "title": "Computer Networks",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSEE 2220",
+      "CSCI 2670",
+      "CSCI 2720",
+      "CSCI 2670E",
+      "CSEE 2220E"
+    ],
+    "description": "In-depth coverage of computer networks, including digital data transmission and encoding, layered protocol models, Internet protocol, Internet client-server models, and network design methodology."
+  },
+  "CSCI 4760E": {
+    "title": "Computer Networks",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSEE 2220",
+      "CSCI 2670",
+      "CSCI 2720",
+      "CSCI 2670E",
+      "CSEE 2220E"
+    ],
+    "description": "In-depth coverage of computer networks, including digital data transmission and encoding, layered protocol models, Internet protocol, Internet client-server models, and network design methodology."
+  },
+  "CSCI 4770/6770": {
+    "title": "Ubiquitous Computing",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4730/6730",
+      "CSCI 4760/6760",
+      "CSCI 2720"
+    ],
+    "description": "Introduces the technologies required to develop mobile and ubiquitous computing applications, including communication protocols, naming and location management, replication and consistency management, security and privacy, content adaptation, and battery power management."
+  },
+  "CSCI 4780/6780": {
+    "title": "Distributed Computing Systems",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 7010",
+      "CSCI 1730"
+    ],
+    "description": "The fundamental concepts in distributed computing and the practical techniques for building distributed systems. Topics include distributed computing models, naming, synchronization, replication and consistency, fault tolerance, and security. Widely deployed distributed systems are used as case studies. Students design, implement, and analyze prototype systems."
+  },
+  "CSCI 4795/6795": {
+    "title": "Cloud Computing",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720"
+    ],
+    "description": "Introduction to cloud computing for undergraduate and graduate students. Topics include virtualization, data centers, virtual machines, cloud service models, public vs. private vs. hybrid clouds, open stack, container and orchestration infrastructure, cloud storage, mobile cloud, IoT, and big data. Students also learn how to design, implement, and test cloud applications."
+  },
+  "CSCI 4800/6800": {
+    "title": "Human-Computer Interaction",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 1302"
+    ],
+    "description": "Issues in the design, development, and evaluation of user interfaces for computer systems. Concepts in human factors, usability, and interface design, and the effects of human capabilities and limitations on interaction with computer systems."
+  },
+  "CSCI 4810/6810": {
+    "title": "Computer Graphics",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 1302"
+    ],
+    "description": "Principles of two-dimensional and three-dimensional interactive raster graphics. Principles of scan conversion algorithms for two-dimensional and three-dimensional graphics primitives; data structures and modeling techniques for raster graphics; interaction, visual realism, animation and user interface design; ray tracing, illumination, shading, data storage/retrieval, software engineering and parallel computing for graphics."
+  },
+  "CSCI 4830/6830": {
+    "title": "Virtual Reality",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720"
+    ],
+    "description": "Introduction to the technology and techniques used in virtual environments (also known as virtual reality). Students will gain knowledge about the latest innovations in this field, will understand the important research issues and methodologies for VEs, and will have the opportunity to gain practical experience with the hardware and software used to create VE applications."
+  },
+  "CBIO(CSCI) 4835/6835": {
+    "title": "Introduction to Computational Biology",
+    "offered": [],
+    "hours": 3,
+    "requirements": [],
+    "description": "Brings together computer science, machine learning, and computer vision analysis techniques. Introduces basic programming concepts within the context of scientific discovery and applying those concepts to current problems in biology using the Python ecosystem."
+  },
+  "CSCI 4840/6840": {
+    "title": "Signal Processing",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720"
+    ],
+    "description": "Introduction to signal processing. Students will learn basic concepts, algorithms, and software tools for multidimensional signal representation, processing and analysis. 1-D, 2-D, 3-D, and 4-D signal processing techniques and applications will be discussed."
+  },
+  "CSCI 4850/6850": {
+    "title": "Biomedical Image Analysis",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 2725"
+    ],
+    "description": "Introduction to the standard approaches to biomedical image analysis, including basic concepts of biomedical imaging, basic algorithms, principles of software systems, and their applications. Biomedical image analysis software tools will be used in hands-on projects."
+  },
+  "CSCI 4860/6860": {
+    "title": "Computational Neuroscience",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2720",
+      "CSCI 2725"
+    ],
+    "description": "Introduction to computational neuroscience. Students will learn basic concepts, algorithms, and software tools for computational neuroscience models. Neural signal processing and neural network models will be discussed."
+  },
+  "CSCI 4900/6900": {
+    "title": "Special Topics in Computer Science",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "Various advanced topics in Computer Science."
+  },
+  "CSCI 4910": {
+    "title": "Capstone Design I",
+    "offered": [],
+    "hours": 2,
+    "requirements": [
+      "CSCI 4050E/6050E",
+      "CSCI 4370/6370",
+      "CSCI 4050/6050"
+    ],
+    "description": "Computer Science design project experience under the supervision of a project director."
+  },
+  "CSCI 4911": {
+    "title": "Capstone Design II",
+    "offered": [],
+    "hours": 2,
+    "requirements": [
+      "CSCI 4910"
+    ],
+    "description": "Computer Science design experience, including completion of a design project under the supervision of a project director."
+  },
+  "ENGR(CSCI) 4922": {
+    "title": "Computer Systems Engineering Design Project",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "ELEE 4250/6250",
+      "CSCI 4720"
+    ],
+    "description": "Engineering design experience, including completion of a design project under the supervision of a project director."
+  },
+  "CSCI 4950/6950": {
+    "title": "Directed Study in Computer Science",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Content will vary in response to the interests, needs, and capability of the students and faculty involved. Individual, guided study in computer science."
+  },
+  "CSCI 4960R": {
+    "title": "Faculty-Mentored Undergraduate Research I",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, synthesize, and interpret data and to present results in writing and other relevant communication formats."
+  },
+  "CSCI 4960": {
+    "title": "Faculty Mentored Research in Computer Science",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Content will vary in response to the interests, needs, and capability of the students and faculty involved. Individual, guided study in computer science."
+  },
+  "CSCI 4970R": {
+    "title": "Faculty-Mentored Undergraduate Research II",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, synthesize, and interpret data and to present results in writing and other relevant communication formats."
+  },
+  "CSCI 4980R": {
+    "title": "Faculty-Mentored Undergraduate Research III",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, synthesize, and interpret data and to present results in writing and other relevant communication formats."
+  },
+  "CSCI 4990R": {
+    "title": "Undergraduate Research Thesis (or Final Project)",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, synthesize, and interpret data. Students will write or produce a thesis or other professional capstone product, such as a report or portfolio that describes their systematic and in-depth inquiry."
+  },
+  "STAT(CSCI) 4990": {
+    "title": "Data Science Capstone Course",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "STAT 4220",
+      "STAT 4230/6230",
+      "CSCI 4360/6360",
+      "CSCI 4370/6370"
+    ],
+    "description": "Provides an exposure to advanced methods and technologies in data science, including data acquisition, data quality, big data management and analytics, data mining, data security and privacy, and introduces the students to data science experience with a real-world problem. In addition, effective oral and written communication of technologies, methods, and results are emphasized."
+  },
+  "CSCI 5007/7007": {
+    "title": "Internship in Computer Science Business/Industry",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Internship in a professional setting allowing the student to integrate his/her educational experience with real-world situations in software development, database technology, hardware design, networks, etc."
+  },
+  "CSCI 5310/7310": {
+    "title": "Web Composing and Scripting",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "CSCI 1100-1100L",
+      "CSCI 1301-1301L",
+      "CSCI 7010"
+    ],
+    "description": "Web site design from a technical viewpoint. Covers applicable network protocols; HTML, CSS, XML, and JavaScript; Web standards and cross-browser compatibility issues; code development and debugging techniques; server-side scripting; database-driven Web applications; navigation and usability concerns; search engine optimization; and security concerns."
+  },
+  "CSCI(STAT) 6375": {
+    "title": "Foundations of Data Science",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [],
+    "description": "Introduction to the life cycle of data starting from data collection to cleaning, management, storage, sorting, provenance, visualization, and analysis. A rigorous overview of methods for text mining, image processing, linear models, and scientific computing. Core concepts in supervised and unsupervised analytics, dimensionality reduction, and data visualization will be explored in depth."
+  },
+  "CSCI 6480": {
+    "title": "Approximation Algorithms",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2670"
+    ],
+    "description": "This is a graduate-level course on algorithms for finding approximate solutions to NP-complete problems. It introduces the class NP and explores the importance of the NP-complete problems. Approaches for finding approximate solutions to many combinatorial and LP-based problems will be discussed."
+  },
+  "CSCI 6610": {
+    "title": "Automata and Formal Languages",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 2670"
+    ],
+    "description": "The fundamental limitations on mechanized computation. In the first part of the course, the emphasis is on possible versus impossible computations. Three classes of languages are considered: regular, context-free, and recursively enumerable. In the second part of the course the emphasis shifts to possible versus feasible computations."
+  },
+  "CSCI 6720": {
+    "title": "Computer Systems Architecture",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4720"
+    ],
+    "description": "Functional components and structure of computing systems. Topics include principles of combinational and sequential logic, number systems and computer arithmetic, hardware subsystem design and test, I/O and memory subsystem principles and techniques, instruction set architecture and implementation, pipelining and system-level parallelism, interconnection networks, trends."
+  },
+  "CSEE(CSCI) 6922": {
+    "title": "Computer Systems Engineering Design Project",
+    "offered": [],
+    "hours": 3,
+    "requirements": [],
+    "description": "Fundamentals of engineering design with emphasis toward integrating engineering science and computer science knowledge in team projects. Problem selection and application of design principles will be stressed."
+  },
+  "CSCI 7000": {
+    "title": "Master's Research",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Research while enrolled for a master's degree under the direction of faculty members."
+  },
+  "CSCI 7005": {
+    "title": "Graduate Student Seminar",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Advanced supervised experience in an applied setting. This course may not be used to satisfy a student's approved program of study."
+  },
+  "CSCI 7010": {
+    "title": "Computer Programming",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113"
+    ],
+    "description": "Algorithms, programs, and computing systems. Topics studied include: fundamental techniques of program development and supportive software tools; and programming projects and applications in a structured computer language. Hands-on experience using microcomputers."
+  },
+  "CSCI 7100": {
+    "title": "Technical Report",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Preparation of a technical report to satisfy requirements for the MAMS degree."
+  },
+  "CSCI 7200": {
+    "title": "Master's Project",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 2,
+    "requirements": [],
+    "description": "Applied research project under the direction of the major professor for the Computer Science Non-thesis MS degree. As part of the requirements, a comprehensive report must be prepared detailing the student's procedures and findings regarding the completed project work."
+  },
+  "CSCI 7300": {
+    "title": "Master's Thesis",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Thesis writing under the direction of the major professor."
+  },
+  "CSCI 8000": {
+    "title": "Advanced Special Topics in Computer Science",
+    "offered": [],
+    "hours": 4,
+    "requirements": [],
+    "description": "Various advanced and current topics in Computer Science."
+  },
+  "CSCI 8050": {
+    "title": "Knowledge-Based Systems",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI ARTI 4540/6540",
+      "CSCI PHIL 4550/6550"
+    ],
+    "description": "Theory and practice of knowledge-based system construction. Topics will include knowledge-based construction, inference engines, reasoning from incomplete or uncertain information, and user interfaces."
+  },
+  "CSCI 8060": {
+    "title": "Advanced Software Engineering",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4370/6370",
+      "CSCI 4050/6050"
+    ],
+    "description": "Analysis of advanced methods in software engineering. Emphasis is placed on formal specification methods, advanced software testing, software reuse, distributed software design, and communication protocol specification. Studies include advanced software development tools and systems."
+  },
+  "CSCI 8140": {
+    "title": "Parallel Processing and Computational Science",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4140/6140",
+      "CSCI 6720"
+    ],
+    "description": "Topics include computer architectures, interconnection networks, basic concepts in parallel computing, parallel algorithms, matrix multiplications, solving systems of equations, parallel direct and iterative methods, programming on different parallel architectures, and applications."
+  },
+  "CSCI 8150": {
+    "title": "Advanced Numerical Methods and Scientific Computing",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4150/6150",
+      "CSCI 4140/6140"
+    ],
+    "description": "Advanced numerical methods for solving problems in science and engineering. Computationally-oriented course guiding students by modeling, choosing appropriate numerical methods, implementing the methods and analyzing the numerical results by visualization tools. Topics include computer architectures, interconnection networks, basic concepts in parallel computing, parallel algorithms, matrix multiplications, solving systems of equations, parallel direct and iterative methods, programming on different parallel architectures, and applications."
+  },
+  "CSCI 8220": {
+    "title": "Parallel and Distributed Simulation Systems",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4730/6730",
+      "CSCI 4210/6210"
+    ],
+    "description": "The mechanisms used in parallel and distributed simulation systems. Topics will include synchronization algorithms, data distribution techniques, parallel and distributed applications running on top of simulation executives, high-performance analytic simulation, and distributed virtual environments."
+  },
+  "CSCI 8240": {
+    "title": "Software Security and Cyber Forensics",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4730/6730",
+      "CSCI 4250/6250"
+    ],
+    "description": "Exploration of both the foundation and recent advances in software security and cyber forensics. Topics will include software vulnerability analysis, advanced attack and defense techniques, cybercrime investigation and forensics, and security and forensics in different platforms (e.g., mobile, cloud computing, web application)."
+  },
+  "CSCI 8245": {
+    "title": "Secure Programming",
+    "offered": [],
+    "hours": 4,
+    "requirements": [],
+    "description": "Our core software stacks are built upon unsafe language (e.g. C/C++). However, with the progress of safe languages, such as Rust and Go, industries are rewriting legacy codes to make our systems safer. In this course, students will learn about security concerns related to unsafe language and then teach about secure programming with one of the fastest-growing safe languages. For example, Rust and Go are ranked top in the 2020 developer survey by Stack Overflow."
+  },
+  "CSCI 8250": {
+    "title": "Advanced Cyber Security",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4760/6760",
+      "CSCI 4250/6250"
+    ],
+    "description": "Recent advances in computer networks and system security. Fast and secure network systems, secure storage systems, high performance intrusion detection systems, and efficient anti-abuse systems."
+  },
+  "CSCI 8260": {
+    "title": "Computer Network Attacks and Defenses",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4250/6250",
+      "CSCI 4760/6760"
+    ],
+    "description": "This is an advanced course on computer and network security. The course will mainly focus on reading and analyzing recent top- tier research publications in the field of computer security and privacy and on the research and development of systems that can enforce security and privacy in the real world."
+  },
+  "CSCI 8265": {
+    "title": "Trustworthy Machine Learning",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4260/6260"
+    ],
+    "description": "An introduction to technologies that support building trustworthy machine learning systems. Topics include, but are not limited to, adversarial machine learning, privacy-preserving machine learning, transparency in machine learning, and fairness of machine learning."
+  },
+  "CSCI 8350": {
+    "title": "Enterprise Integration",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4570/6570",
+      "CSCI 4370/6370"
+    ],
+    "description": "Technical information management aspects of enterprise integration using recent advances in workflow management, database management, distributed systems, and information systems areas of computer science. Topics include federated/multidatabase architectures and systems for integration of distributed, heterogeneous, and autonomous databases, business process modeling and workflow automation. Large group project."
+  },
+  "CSCI 8360": {
+    "title": "Data Science Practicum",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4360/6360",
+      "CSCI 4380/6380"
+    ],
+    "description": "Advanced data science techniques for analyzing large-scale data in distributed environments. Students will develop scalable algorithms in frameworks such as Spark and Flink. This course is team-based, involving several mini-projects over the course of the semester with a competition as the final project."
+  },
+  "CSCI 8370": {
+    "title": "Advanced Database Systems",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4730/6730",
+      "CSCI 4370/6370"
+    ],
+    "description": "Advanced study of database systems. The course focuses on concepts, algorithms and technologies for relational, object-oriented and distributed database systems. Related technologies such as data warehouses and repositories will also be covered."
+  },
+  "CSCI 8380": {
+    "title": "Advanced Topics in Information Systems",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4370/6370",
+      "CSCI 4050/6050"
+    ],
+    "description": "Advanced topics in information systems and databases. The two major issues dealt with are: (1) information integration and interoperability, and (2) novel database technologies. The first addresses the integration of autonomous and heterogeneous resources managing structured, semi-structured, and unstructured data. The second deals with the query formulation, and processing on heterogeneous content. Special attention will be given to emerging research areas fueled by the Web and related technologies."
+  },
+  "CSCI 8470": {
+    "title": "Advanced Algorithms",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4470/6470",
+      "CSCI 6610"
+    ],
+    "description": "Further study of fundamental algorithms. Topics covered include advanced data structures, graph algorithms, string algorithms, geometric algorithms, parallel algorithms, and approximation algorithms for NP-complete problems."
+  },
+  "CSCI 8530": {
+    "title": "Advanced Topics in Robotics",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 1730",
+      "CSCI 4500/6500",
+      "CSCI ARTI 4530/6530"
+    ],
+    "description": "This is primarily a research-oriented and seminar-style course covering topics of robotics in field and service industries, urban search and rescue, and applications in nuclear environments and logistics. It enables students to understand, devise, and solve problems in advanced robotics applications."
+  },
+  "CSCI 8535": {
+    "title": "Multi-Robot Systems",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 1730",
+      "CSCI 4500/6500",
+      "CSCI ARTI 4530/6530"
+    ],
+    "description": "This is primarily a research oriented, seminar-style course covering the topics of control, communication, cooperation, and coordination aspects in multi-robot systems. It enables students to understand, devise, and solve problems in multi-robot systems and will include project-based assignments."
+  },
+  "CSCI(LING) 8570": {
+    "title": "Natural Language Processing Techniques",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI ARTI 4540/6540",
+      "LING 8150"
+    ],
+    "description": "Human language from a computational point of view; algorithms and techniques for computer understanding of human-language input."
+  },
+  "CSCI 8610": {
+    "title": "Topics in Theoretical Computer Science",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4470/6470",
+      "CSCI 6610"
+    ],
+    "description": "Advanced topics in theoretical computer science. The selection of topics varies from year to year. Areas may include, but are not limited to, denotational semantics, complexity theory, recursion theory, and discrete algorithms."
+  },
+  "CSCI(MATH)(PHYS) 8612": {
+    "title": "Topics in Quantum Computation",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI MATH PHYS 4612/6612",
+      "CSCI 6610"
+    ],
+    "description": "The selection of topics varies from year to year. Students will make presentations based on journal articles or original research."
+  },
+  "PHYS(MATH)(CSCI) 8615": {
+    "title": "Quantum Information Science Seminar",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "Discussion of contemporary topics in quantum computing and quantum information."
+  },
+  "CSCI(PHIL) 8650": {
+    "title": "Logic and Logic Programming",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI ARTI 4540/6540",
+      "PHIL LING 4510/6510"
+    ],
+    "description": "Theoretical foundations of automated reasoning and logic programming. Topics covered include propositional logic, predicate logic, first-order models, resolution principles, logic programming paradigms, nonmonotonic reasoning."
+  },
+  "CSCI 8720": {
+    "title": "Advanced Computer Architecture",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 6720"
+    ],
+    "description": "Advanced and high-performance computer architecture. Topics covered include hierarchical memory design, cache memory design, pipelining, vector processing and parallel processing. Case studies of vector processors and multi-processor architectures: shared memory, distributed memory, data parallel (SIMD) and control parallel (MIMD) architectures, and heterogeneous parallel computing on a network of workstations."
+  },
+  "CSCI 8730": {
+    "title": "Advanced Topics in Operating Systems",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4730/6730"
+    ],
+    "description": "Software systems geared at supporting parallel and distributed computing. Programming language support will focus on simple and efficient ways to express parallel programs. Compiler and operating system support will focus on new optimizations to make parallel programs execute more efficiently."
+  },
+  "CSCI 8740": {
+    "title": "Advanced Topics in Real-Time Scheduling",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4740/6740"
+    ],
+    "description": "Advanced topics in real-time systems with an emphasis on scheduling issues. Topics will be different each semester. Possible topics include: multiprocessor scheduling, power-aware scheduling, application-specific scheduling (e.g., multimedia scheduling issues)."
+  },
+  "CSCI 8780": {
+    "title": "Advanced Topics in Distributed Systems",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4370/6370",
+      "CSCI 4760/6760"
+    ],
+    "description": "The design and implementation of a wide class of distributed systems. The selection of topics will vary from year to year. Topics may include, but are not limited to, distributed file systems, peer-to-peer systems, distributed spam processing, content delivery networks, and security and privacy."
+  },
+  "CSCI 8790": {
+    "title": "Advanced Topics in Data Intensive Computing",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4370/6370"
+    ],
+    "description": "Modern computing applications require storage, management, and processing of petabytes of data. The data is not only extremely diverse, ranging from unstructured text and relational tables to complex graphs, but it is also dynamic. This course focuses on developing scalable architectures, algorithms, and techniques for supporting various data intensive applications."
+  },
+  "CSCI 8795": {
+    "title": "Advanced Topics in Cloud Computing",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4730/6730",
+      "CSCI 4780/6780"
+    ],
+    "description": "This advanced course in cloud computing investigates the research that leads to the creation of \u201cclouds\u201d and includes in-depth discussion for new research that will soon be reflected in real- world clouds. Topics include cloud infrastructure, microservices, cloud functions, cloud-based large-scale machine learning and AI, and cloud IoT."
+  },
+  "CSCI 8810": {
+    "title": "Image Processing and Computer Graphics",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4810/6810"
+    ],
+    "description": "Image processing and computer graphics. Topics include: image representation, restoration, transformation, classification, compression, enhancement, segmentation, image filter, design, histogram techniques, sampling and quantization, Fast Fourier Transform, image data structures, parallel/distributed processing, illumination models and surface-rendering methods. A number of applications will be presented as case studies."
+  },
+  "CSCI 8820": {
+    "title": "Computer Vision and Pattern Recognition",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4810/6810"
+    ],
+    "description": "Low-level and high-level vision including edge detection, connected component labeling, boundary detection, segmentation, stereopsis, motion analysis, and object recognition. Knowledge representation, knowledge retrieval and reasoning techniques in computer vision. Parallel computing, parallel architectures and neural computing for computer vision."
+  },
+  "CSEE(CSCI) 8840": {
+    "title": "Advanced Image Analysis",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "CSEE 4630",
+      "CSCI 8810",
+      "ELEE 4540/6540",
+      "CSCI 8820",
+      "ENGR 4540/6540"
+    ],
+    "description": "Gain in-depth understanding, knowledge, and the ability to apply cutting-edge methods to process and quantitatively analyze images. This class presents modern image analysis tools, including wavelets, adaptive filters, active contours, and fractals. An important aspect is the design of unsupervised image analysis chains."
+  },
+  "CSCI 8850": {
+    "title": "Advanced Biomedical Image Analysis",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4850/6850"
+    ],
+    "description": "Introduction to advanced approaches to, and applications of, biomedical image analysis, including imaging biomarker discovery, computer-aided diagnosis, computer-aided follow-up, image-guided therapy, molecular imaging, functional imaging, and translational imaging. Advanced applications of state-of- the-art biomedical image analysis software systems will be emphasized."
+  },
+  "CSCI 8860": {
+    "title": "Biomedical Informatics",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4850/6850"
+    ],
+    "description": "This course introduces advanced topics and applications of biomedical informatics, including health informatics systems, imaging informatics systems, computer-aided diagnosis, computer-aided follow-up, and translational biomedical informatics systems. Advanced applications of state-of-the-art biomedical informatics software systems will be emphasized."
+  },
+  "CSCI 8920": {
+    "title": "Decision Making Under Uncertainty",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4470/6470"
+    ],
+    "description": "Choosing optimally among different lines of actions is a key aspect of autonomy in artificial agents. This course will focus on how to make optimal and approximately optimal decisions in single and multiagent settings. It will be self-contained, introducing background literature such as aspects of probability and game theories."
+  },
+  "CSCI(ENGR) 8940": {
+    "title": "Computational Intelligence",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI PHIL 4550/6550"
+    ],
+    "description": "Programs that solve complex problems in a particular domain, typically independent of knowledge used to direct the search for an optimal solution. Approaches include simulated annealing, genetic algorithms, neural networks."
+  },
+  "CSCI 8945": {
+    "title": "Advanced Representation Learning",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4380/6380",
+      "CSCI PHIL 4550/6550"
+    ],
+    "description": "Advanced representation learning algorithms in machine learning, from the traditional subspace learning models to the recent deep representation learning models. Applications in the fields of computer vision, data mining, and natural language processing will be covered."
+  },
+  "CSCI(ARTI) 8950": {
+    "title": "Machine Learning",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4560/6560",
+      "CSCI PHIL 4550/6550"
+    ],
+    "description": "An in-depth introduction to machine learning methods and an exploration of research problems in machine learning and its applications which may lead to work on a project or a dissertation."
+  },
+  "CSCI 8951": {
+    "title": "Large-Scale Optimization for Machine Learning",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4360/6360",
+      "CSCI 4380/6380"
+    ],
+    "description": "Introduction of optimization algorithms suitable for solving large- scale problems, with a focus on exploring recent advances in the context of machine learning. Students will learn several algorithms for solving smooth and non-smooth problems, compare the efficacy of those methods, and discuss the trade-offs in terms of statistical accuracy, scalability, and algorithmic complexity."
+  },
+  "CSCI 8955": {
+    "title": "Advanced Data Analytics: Statistical Learning and Optimization",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4150/6150",
+      "CSCI 4380/6380"
+    ],
+    "description": "Advanced topics in data analysis, with an emphasis on statistical learning and related optimization problems. The applications include regression, classification, and other tasks in image analysis. The lectures will be based on books and articles in the field of computer vision and medical image analysis."
+  },
+  "CSCI 8960": {
+    "title": "Privacy-Preserving Data Analysis",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4380/6380"
+    ],
+    "description": "An introduction to the privacy preservation problems, as well as algorithmic and statistical techniques for data privacy, in modern data analysis, such as machine learning and data mining. Approaches include randomized algorithms, synthetic data generation, stability analysis, and so on."
+  },
+  "CSCI 8965": {
+    "title": "Internet of Things Security",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "CSCI 4730/6730"
+    ],
+    "description": "Introduction to security problems associated with the emerging Internet of Things (IoT) technologies, including privacy disclosure and data manipulation. Topics studied include architectural differences leading to such issues, how adversaries launch attacks by either exploiting software vulnerabilities or physically hacking into the hardware, and mitigation techniques, such as trusted booting."
+  },
+  "CSCI 8990": {
+    "title": "Research Seminar",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Weekly research seminar. Students must attend and give at least one presentation at the seminar."
+  },
+  "CSCI 9000": {
+    "title": "Doctoral Research",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Research while enrolled for a doctoral degree under the direction of faculty members."
+  },
+  "CSCI 9005": {
+    "title": "Doctoral Graduate Student Seminar",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Advanced supervised experience in an applied setting. This course may not be used to satisfy a student's approved program of study."
+  },
+  "CSCI 9300": {
+    "title": "Doctoral Dissertation",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Dissertation writing under the direction of the major professor."
+  },
+  "LATN 1001": {
+    "title": "Elementary Latin I",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [],
+    "description": "The Latin language; pronunciation, fundamentals of grammar, reading, and translation."
+  },
+  "LATN 1001W": {
+    "title": "Elementary Latin I",
+    "offered": [],
+    "hours": 4,
+    "requirements": [],
+    "description": "The Latin language; pronunciation, fundamentals of grammar, reading, and translation."
+  },
+  "LATN 1002W": {
+    "title": "Elementary Latin II",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "LATN 1001W",
+      "LATN 2050",
+      "LATN 1001"
+    ],
+    "description": "Completion of study of Latin grammar and syntax begun in Elementary Latin I, with continuation of reading and translation."
+  },
+  "LATN 1002": {
+    "title": "Elementary Latin II",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "LATN 1001W",
+      "LATN 2050",
+      "LATN 2050E",
+      "LATN 1001"
+    ],
+    "description": "Completion of study of Latin grammar and syntax begun in Elementary Latin I, with continuation of reading and translation."
+  },
+  "LATN 2001": {
+    "title": "Intermediate Latin I",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "LATN 2060",
+      "LATN 1002",
+      "LATN 2060E",
+      "LATN 1002W"
+    ],
+    "description": "Translating continuous Latin passages through prose readings from the works of Julius Caesar and verse readings from the works of Catullus and/or Ovid. Course content will be balanced between prose and poetry. Systematic review of Latin grammar and syntax."
+  },
+  "LATN 2002": {
+    "title": "Intermediate Latin II: Golden Age Latin Literature",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 2001"
+    ],
+    "description": "Golden Age Latin prose and poetry, with prose readings from the works of Cicero and verse readings from the works of Vergil and/or Horace. Course content will be balanced between prose and poetry."
+  },
+  "LATN 2050": {
+    "title": "Intensive Elementary Latin I",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "An intensive introduction to the Latin language. This includes pronunciation, fundamentals of grammar, reading, and translation."
+  },
+  "LATN 2050E": {
+    "title": "Intensive Elementary Latin I",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "An intensive introduction to the Latin language. This includes pronunciation, fundamentals of grammar, reading, and translation."
+  },
+  "LATN 2060E": {
+    "title": "Intensive Elementary Latin II",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 3,
+    "requirements": [
+      "LATN 1001W",
+      "LATN 2050",
+      "LATN 2050E",
+      "LATN 1001"
+    ],
+    "description": "Completion of the study of Latin grammar and syntax begun in Intensive Elementary Latin I, with continuation of reading and translation."
+  },
+  "LATN 2060": {
+    "title": "Intensive Elementary Latin II",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 3,
+    "requirements": [
+      "LATN 1001W",
+      "LATN 2050",
+      "LATN 2050E",
+      "LATN 1001"
+    ],
+    "description": "Completion of the study of Latin grammar and syntax begun in Intensive Elementary Latin I, with continuation of reading and translation."
+  },
+  "LATN 3010": {
+    "title": "Vergil's Aeneid",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "LATN 2002"
+    ],
+    "description": "Latin poetry, poetic syntax, meter, and style through readings from Vergil's Aeneid, including selections from Aeneid books 3, 5, or 7-12, and others."
+  },
+  "LATN 3010W": {
+    "title": "Vergil's Aeneid",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 2002"
+    ],
+    "description": "Latin poetry, poetic syntax, meter, and style through readings from Vergil's Aeneid, including selections from Aeneid books 3, 5, or 7-12, and others."
+  },
+  "LATN 3020": {
+    "title": "Golden Age Latin Prose",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "LATN 2002"
+    ],
+    "description": "Latin prose through readings from Cicero and from other Latin prose authors."
+  },
+  "LATN 4000": {
+    "title": "Gateway Latin",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "LATN 2001"
+    ],
+    "description": "Further training in Latin grammar, syntax, and vocabulary acquisition in conjunction with daily translation of Latin text to improve translation skills and strengthen knowledge of the linguistic structure of the Latin language."
+  },
+  "LATN 4010/6010": {
+    "title": "Roman Rhetoric",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the orations and rhetorical writings of Cicero, Quintilian, Seneca Rhetor, and others."
+  },
+  "LATN 4020/6020": {
+    "title": "Roman Epic Poetry",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the Latin epic poets Ennius, Vergil, Lucan, and others."
+  },
+  "LATN 4030/6030": {
+    "title": "Roman Historians",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from Roman historical writers such as Caesar, Sallust, Ammianus Marcellinus, and others."
+  },
+  "LATN 4040/6040": {
+    "title": "Roman Elegy",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the elegiac works of Tibullus/Sulpicia, Propertius, and Ovid, including studies in the cultural context of Roman poetry, as well as the development of Latin poetic form, meter, and diction."
+  },
+  "LATN 4050/6050": {
+    "title": "Roman Epistles",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the letters of Cicero, Seneca, Pliny the Younger, and others."
+  },
+  "LATN 4060/6060": {
+    "title": "Roman Satire",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from such satirists as Horace, Juvenal, and others."
+  },
+  "LATN 4070/6070": {
+    "title": "Roman Drama",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the comedies of Plautus and Terence, and the tragedies of Seneca, and others."
+  },
+  "LATN 4080/6080": {
+    "title": "Roman Didactic Poetry",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from Lucretius' De Rerum Natura, Vergil's Georgics, and others. The poet as teacher; the manner in which poetic form and imagery express philosophy."
+  },
+  "LATN 4090/6090": {
+    "title": "Latin of Later Antiquity and the Middle Ages",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from Latin authors of late antiquity and the Middle Ages. Study of Latin vocabulary and style during late antiquity and the Middle Ages."
+  },
+  "LATN 4100/6100": {
+    "title": "Roman Biography",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from Latin biographical authors such as Nepos, Suetonius, Tacitus, the Scriptores Historiae Augustae, and Einhard."
+  },
+  "GREK(LATN)(LING) 4150/6150": {
+    "title": "Comparative Grammar of Greek and Latin",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "GREK 2003",
+      "GREK 2001W",
+      "GREK 2001",
+      "LATN 2001"
+    ],
+    "description": "The positions of Greek and Latin within the Indo-European language family with special attention to the phonological evolution of both Greek and Latin from Proto-Indo-European."
+  },
+  "LATN 4200/6200": {
+    "title": "Catullus",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the Carmina of Catullus, including studies in the cultural context of Roman poetry, as well as the development of Latin poetic form, meter, and diction."
+  },
+  "LATN 4210/6210": {
+    "title": "Horace",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the works of Horace, including studies in the cultural context of Roman poetry, as well as the development of Latin poetic form, meter, and diction."
+  },
+  "LATN 4220/6220": {
+    "title": "Ovid",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the Metamorphoses and non-elegiac works of Ovid, including studies in the cultural context of Roman poetry, as well as the development of Latin poetic form, meter, and diction."
+  },
+  "LATN 4220W": {
+    "title": "Ovid",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the Metamorphoses and non-elegiac works of Ovid, including studies in the cultural context of Roman poetry, as well as the development of Latin poetic form, meter, and diction."
+  },
+  "LATN 4300/6300": {
+    "title": "Cicero and the Roman Republic",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the orations and other works of Cicero, and from the works of Caesar, Sallust, and other contemporary writers."
+  },
+  "LATN 4310/6310": {
+    "title": "Livy",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the Ab Urbe Condita of Livy, with attention to literary and historical issues surrounding the author and his works."
+  },
+  "LATN 4320/6320": {
+    "title": "Tacitus",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings from the Annales, Historiae, and/or minor works of Tacitus, with attention to literary and historical issues surrounding the author and his works."
+  },
+  "LATN 4400/6400": {
+    "title": "Advanced Readings in Latin",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings in one or more Latin authors or genres. Topics to be selected on the basis of student needs."
+  },
+  "LATN 4405/6405": {
+    "title": "Advanced Readings in Latin: Studies Abroad",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Readings in one or more Latin authors or genres. Topics to be selected on the basis of student needs."
+  },
+  "LATN 4770/6770": {
+    "title": "Methods and Materials for Teaching Latin",
+    "offered": [],
+    "hours": 1,
+    "requirements": [
+      "CLAS 8000",
+      "SIX HOURS OF 4000-LEVEL LATN"
+    ],
+    "description": "Principles, methods, materials, and activities for teaching Latin at the P-12 and college levels."
+  },
+  "LATN 4800/6800": {
+    "title": "Latin Prose Composition",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "LATN 4000"
+    ],
+    "description": "Systematic study and review of advanced Latin grammar through translation exercises from English into Latin."
+  },
+  "LATN 4960R": {
+    "title": "Faculty-Mentored Undergraduate Research I",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, synthesize, and interpret data and to present results in writing and other relevant communication formats."
+  },
+  "LATN 4970R": {
+    "title": "Faculty-Mentored Undergraduate Research II",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, synthesize, and interpret data and to present results in writing and other relevant communication formats."
+  },
+  "LATN 4980R": {
+    "title": "Faculty-Mentored Undergraduate Research III",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, synthesize, and interpret data and to present results in writing and other relevant communication formats."
+  },
+  "LATN 4990R": {
+    "title": "Undergraduate Research Thesis (or Final Project)",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, synthesize, and interpret data. Students will write or produce a thesis or other professional capstone product, such as a report or portfolio that describes their systematic and in-depth inquiry."
+  },
+  "LATN 5001E": {
+    "title": "Reading Latin Prose",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Reading Latin prose will develop and enhance the student\u2019s ability to translate works of several authors typically encountered by undergraduate major courses. Authors typically covered include Cicero, Sallust, and Livy."
+  },
+  "LATN 5002E": {
+    "title": "Reading Latin Poetry",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Reading Latin prose will develop and enhance the student\u2019s ability to translate works of several authors typically encountered by undergraduate major courses. Authors typically covered include Vergil, Catullus, and Horace."
+  },
+  "LATN 5770E": {
+    "title": "Methods and Materials for Teaching Latin",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "Principles, methods, materials, and activities for teaching Latin at the P-12 and college levels."
+  },
+  "LATN 6500": {
+    "title": "Latin Poetry Survey",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "GRADUATE STUDENT ST",
+      "ING"
+    ],
+    "description": "The development of Latin poetry from the earliest examples through the fourth century CE. Epic, lyric poetry, elegy, tragedy, comedy, satire, epigram, and didactic poetry will be read and discussed. The literary selections will be read in Latin."
+  },
+  "LATN 6600": {
+    "title": "Latin Prose Survey",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "GRADUATE STUDENT ST",
+      "ING"
+    ],
+    "description": "The development of Latin prose from the earliest examples through the fourth century CE. History, rhetoric, oratory, philosophy, biography, epistles, the novel, and scientific and technical writing will be read and discussed. The literary selections will be read in Latin."
+  },
+  "LATN 7000": {
+    "title": "Master's Research",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Research while enrolled for a master's degree under the direction of faculty members."
+  },
+  "LATN 7300": {
+    "title": "Master's Thesis",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Thesis writing under the direction of the major professor."
+  },
+  "LATN 7770": {
+    "title": "Latin Teaching Apprenticeship",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "The teaching of elementary Latin at the college level; an introduction to methods and materials. Observations and practice teaching are required."
+  },
+  "LATN 8010": {
+    "title": "Readings and Research in Latin Prose",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Latin prose literature and pertinent critical writings. The topic, author, or genre covered will be determined by the student's previous training and interests."
+  },
+  "LATN 8020": {
+    "title": "Readings and Research in Latin Poetry",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Latin poetic literature and pertinent critical writings. The topic, author, or genre covered will be determined by the student's previous training and interests."
+  },
+  "MATH 1060": {
+    "title": "Mathematics of Decision Making",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Applications of modern mathematics to management and decision making including the solution of optimization problems using network theory, methods for optimal scheduling, voting methods, game theory, and related strategies. Applications include planning of postal delivery routes, placement of cable television lines, United States Congressional apportionment, and dispute resolution."
+  },
+  "MATH 1070": {
+    "title": "History of African American Mathematicians",
+    "offered": [],
+    "hours": 3,
+    "requirements": [],
+    "description": "A survey of the historical development of mathematics by African American mathematicians. The emphasis will be on mathematical concepts, problem-solving, and the challenges faced by African American academics to become mathematicians. The course will focus on three groups of African American mathematicians: pioneers, women, and mathematicians working today."
+  },
+  "MATH 1101E": {
+    "title": "Introduction to Mathematical Modeling",
+    "offered": [],
+    "hours": 3,
+    "requirements": [],
+    "description": "Mathematical modeling using graphical, numerical, symbolic, and verbal techniques to describe and explore real-world data and phenomena. The investigation and analysis of applied problems and questions and of effective communication of quantitative concepts and results."
+  },
+  "MATH 1101": {
+    "title": "Introduction to Mathematical Modeling",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Mathematical modeling using graphical, numerical, symbolic, and verbal techniques to describe and explore real-world data and phenomena. The investigation and analysis of applied problems and questions, and of effective communication of quantitative concepts and results."
+  },
+  "MATH 1113E": {
+    "title": "Precalculus",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Preparation for calculus, including an intensive study of algebraic, exponential, logarithmic, and trigonometric functions and their graphs. Applications include simple maximum/minimum problems, exponential growth and decay, and surveying problems."
+  },
+  "MATH 1113": {
+    "title": "Precalculus",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Preparation for calculus, including an intensive study of algebraic, exponential, logarithmic, and trigonometric functions and their graphs. Applications include simple maximum/minimum problems, exponential growth and decay, and surveying problems."
+  },
+  "MATH(EMAT) 2001": {
+    "title": "Geometry for Elementary School Teachers",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "A deep examination of mathematical topics designed for future elementary school teachers. Visualization. Properties of angles, circles, spheres, triangles, and quadrilaterals. Measurement, length, area, and volume. Transformations, congruence, and similarity."
+  },
+  "MATH(EMAT) 2002": {
+    "title": "Numbers, Algebra, and Statistics for Elementary School Teachers",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "A deep examination of mathematical topics designed for future elementary school teachers. Numbers, the decimal system, number lines. Fractions. Number theory: factors, multiples, greatest common factor, least common multiple, prime numbers. Algebra, expressions and solving equations. Basic descriptive statistics."
+  },
+  "MATH(EMAT) 2003": {
+    "title": "Arithmetic for Elementary School Teachers",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 2002"
+    ],
+    "description": "A deep examination of mathematical topics designed for future elementary school teachers. The meaning of addition, multiplication, and division. Adding, multiplying and dividing whole numbers, decimals, and fractions. Ratio and proportion."
+  },
+  "MATH 2110E": {
+    "title": "Calculus for Economics",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 2250",
+      "MATH 2200"
+    ],
+    "description": "Topics specifically chosen to meet the needs of the student of economics: the definite integral, functions of several variables, partial derivatives, Lagrange multipliers, and matrices."
+  },
+  "MATH 2110": {
+    "title": "Calculus for Economics",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2250",
+      "MATH 2200"
+    ],
+    "description": "Topics specifically chosen to meet the needs of the student of economics: the definite integral, functions of several variables, partial derivatives, Lagrange multipliers, and matrices."
+  },
+  "MATH 2200": {
+    "title": "Analytic Geometry and Calculus",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113"
+    ],
+    "description": "Introductory differential calculus and its applications. Topics include limits, continuity, differentiability, derivatives of trigonometric, exponential and logarithmic functions, optimization, curve sketching, antiderivatives, differential equations, and applications."
+  },
+  "MATH 2250E": {
+    "title": "Calculus I for Science and Engineering",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113"
+    ],
+    "description": "Students will use the derivative to understand the behavior of functions and will discuss the limit, the derivative, and the antiderivative, both conceptually and computationally, culminating in the Fundamental Theorem of Calculus. Students will use calculus concepts to model and solve problems in science and engineering, with emphasis on graphs, optimization, and basic integration."
+  },
+  "MATH 2250": {
+    "title": "Calculus I for Science and Engineering",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113"
+    ],
+    "description": "Students will use the derivative to understand the behavior of functions and will discuss the limit, the derivative, and the antiderivative, both conceptually and computationally, culminating in the Fundamental Theorem of Calculus. Students will use calculus concepts to model and solve problems in science and engineering, with emphasis on graphs, optimization, and basic integration."
+  },
+  "MATH 2255": {
+    "title": "Special Topics in Integral Calculus",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 2250",
+      "MATH 2250E"
+    ],
+    "description": "A review of basic algebra, precalculus, and differential calculus concepts that are needed for topics such as techniques and interpretation of integration and sequences and series in Calculus II. The course includes strategies for problem-solving in the context of Calculus II problems."
+  },
+  "MATH 2260E": {
+    "title": "Calculus II for Science and Engineering",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "MATH 2250",
+      "MATH 2250E"
+    ],
+    "description": "Volumes, arclength, work, separable differential equations. Techniques of integration. Sequences and series, convergence tests, power series and Taylor series. Vectors in three-dimensional space, dot product, cross product, lines and planes."
+  },
+  "MATH 2260": {
+    "title": "Calculus II for Science and Engineering",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 2250"
+    ],
+    "description": "Volumes, arclength, work, separable differential equations. Techniques of integration. Sequences and series, convergence tests, power series and Taylor series. Vectors in three-dimensional space, dot product, cross product, lines and planes."
+  },
+  "MATH 2270": {
+    "title": "Calculus III for Science and Mathematics",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 2260",
+      "MATH 2410"
+    ],
+    "description": "Calculus of functions of two and three variables: Parametric curves and applications to planetary motion. Derivatives, the gradient, Lagrange multipliers. Multiple integration, area, volume, and physical applications, polar, cylindrical, and spherical coordinates. Line and surface integrals, Green's, Stokes's, and Divergence theorems, with applications to physics."
+  },
+  "MATH 2400": {
+    "title": "Differential Calculus with Theory",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "MATH 1113"
+    ],
+    "description": "A rigorous and extensive treatment of differential calculus. Topics include the real numbers, the least upper bound property, limits, continuity, differentiability, and applications."
+  },
+  "MATH 2410": {
+    "title": "Integral Calculus with Theory",
+    "offered": [],
+    "hours": 4,
+    "requirements": [
+      "MATH 2400"
+    ],
+    "description": "A rigorous and extensive treatment of integral calculus. Topics include the Fundamental Theorem of calculus, applications of integration, logarithms and exponentials, Taylor polynomials, `sequences, series, and uniform convergence."
+  },
+  "MATH 2500": {
+    "title": "Accelerated Calculus III for Engineering Students",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2410",
+      "MATH 2210",
+      "MATH 2260"
+    ],
+    "description": "Calculus of functions of two and three variables: Parametric curves, derivatives, gradient, Lagrange multipliers. Multiple integration, area, volume, polar, cylindrical, and spherical coordinates. Line integrals and Green's Theorem. Introduction to surface integrals and Stokes's and Divergence Theorems. This is an accelerated version of Calculus III for Science and Engineering that covers fewer topics and applications."
+  },
+  "MATH 2500E": {
+    "title": "Accelerated Calculus III for Engineering Students",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 2410",
+      "MATH 2260E",
+      "MATH 2260"
+    ],
+    "description": "Calculus of functions of two and three variables: Parametric curves, derivatives, gradient, Lagrange multipliers. Multiple integration, area, volume, polar, cylindrical, and spherical coordinates. Line integrals and Green's Theorem. Introduction to surface integrals and Stokes' and Divergence Theorems. This is an accelerated version of Calculus III for Science and Engineering that covers fewer topics and applications."
+  },
+  "MATH 2700E": {
+    "title": "Elementary Differential Equations",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 2410",
+      "MATH 2260E",
+      "MATH 2260"
+    ],
+    "description": "First- and second-order ordinary differential equations, including physical and biological applications, numerical solutions, and mathematical modeling."
+  },
+  "MATH 2700": {
+    "title": "Elementary Differential Equations",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2410",
+      "MATH 2260E",
+      "MATH 2260"
+    ],
+    "description": "First- and second-order ordinary differential equations, including physical and biological applications, numerical solutions, and mathematical modeling."
+  },
+  "MATH 3000": {
+    "title": "Introduction to Linear Algebra",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 3200"
+    ],
+    "description": "Theory and applications of systems of linear equations, vector spaces, and linear transformations. Fundamental concepts include: linear independence, basis, and dimension; orthogonality, projections, and least squares solutions of inconsistent systems; eigenvalues, eigenvectors, and applications to Markov chains, difference equations, and quadratic forms."
+  },
+  "MATH 3100": {
+    "title": "Sequences and Series",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 3200",
+      "MATH 3200W"
+    ],
+    "description": "Precise definitions of limit and convergence concepts; practical tests for convergence of infinite series; power series representations and numerical error estimates; applications to calculus and explicit summation formulae; trigonometric series."
+  },
+  "MATH 3100W": {
+    "title": "Sequences and Series",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 3200",
+      "MATH 3200W"
+    ],
+    "description": "Precise definitions of limit and convergence concepts; practical tests for convergence of infinite series; power series representations and numerical error estimates; applications to calculus and explicit summation formulae; and trigonometric series."
+  },
+  "MATH 3200W": {
+    "title": "Introduction to Higher Mathematics",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 2410",
+      "MATH 2260E",
+      "MATH 2500E",
+      "MATH 2500",
+      "MATH 2260",
+      "MATH 2270"
+    ],
+    "description": "Mathematical reasoning and writing mathematical proofs are the two essential skills for success in upper-division coursework in mathematics. Topics include logic, integers and induction, sets and relations, equivalence relations, and functions (including injectivity and surjectivity)."
+  },
+  "MATH 3200": {
+    "title": "Introduction to Higher Mathematics",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2410",
+      "MATH 2260E",
+      "MATH 2500E",
+      "MATH 2500",
+      "MATH 2260",
+      "MATH 2270"
+    ],
+    "description": "Mathematical reasoning and writing mathematical proofs, the two essential skills for success in upper division course work in mathematics. Topics include logic, integers and induction, sets and relations, equivalence relations, and functions (including injectivity and surjectivity)."
+  },
+  "MATH 3220": {
+    "title": "Advanced Problem Solving",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [
+      "MATH 3100",
+      "MATH 3200",
+      "MATH 3500",
+      "MATH 3000"
+    ],
+    "description": "Strategies and tactics for solving advanced problems in undergraduate mathematics, designed to prepare students for a challenging external exam (Putnam Exam/Mathematics Subject GRE/Actuarial Exam) which is ordinarily a required part of the course."
+  },
+  "MATH 3300": {
+    "title": "Applied Linear Algebra",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2410",
+      "MATH 2260E",
+      "MATH 2260"
+    ],
+    "description": "Linear algebra from an applied and computational viewpoint. Linear equations, vector spaces, linear transformations; linear independence, basis, dimension; orthogonality, projections, and least squares solutions; eigenvalues, eigenvectors, singular value decomposition. Applications to science and engineering."
+  },
+  "MATH 3300E": {
+    "title": "Applied Linear Algebra",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 2410",
+      "MATH 2260E",
+      "MATH 2260"
+    ],
+    "description": "Linear algebra from an applied and computational viewpoint. Linear equations, vector spaces, linear transformations; linear independence, basis, dimension; orthogonality, projections, and least squares solutions; eigenvalues, eigenvectors, singular value decomposition. Applications to science and engineering."
+  },
+  "MATH 3500": {
+    "title": "Multivariable Mathematics I",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 2410",
+      "MATH 2210",
+      "MATH 2260"
+    ],
+    "description": "Vector algebra and geometry, fundamental concepts of linear algebra, linear transformations, differential calculus of functions of several variables, solutions of linear systems and linear independence, extremum problems and projections. This course and its sequel give an integrated and more proof-oriented treatment of the material in Multivariable Calculus and Introduction to Linear Algebra."
+  },
+  "MATH 3510": {
+    "title": "Multivariable Mathematics II",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 4,
+    "requirements": [
+      "MATH 3500"
+    ],
+    "description": "Inverse function theorem and manifolds, integration in several variables, the change of variables theorem. Differential forms, line integrals, surface integrals, and Stokes's Theorem; applications to physics. Eigenvalues, eigenvectors, spectral theorem, and applications."
+  },
+  "MATH 4000/6000": {
+    "title": "Modern Algebra and Geometry I",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 3300",
+      "CSCI MATH 2610",
+      "MATH 3200",
+      "MATH 3500",
+      "MATH 3000"
+    ],
+    "description": "Abstract algebra, emphasizing geometric motivation and applications. Beginning with a careful study of integers, modular arithmetic, and the Euclidean algorithm, the course moves on to fields, isometries of the complex plane, polynomials, splitting fields, rings, homomorphisms, field extensions, and compass and straightedge constructions."
+  },
+  "MATH 4010/6010": {
+    "title": "Modern Algebra and Geometry II",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 4000/6000"
+    ],
+    "description": "More advanced abstract algebraic structures and concepts, such as groups, symmetry, group actions, counting principles, symmetry groups of the regular polyhedra, Burnside's Theorem, isometries of R^3, Galois Theory, and affine and projective geometry."
+  },
+  "MATH 4050/6050": {
+    "title": "Advanced Linear Algebra",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 3200",
+      "MATH 3300",
+      "MATH 3000"
+    ],
+    "description": "Orthogonal and unitary groups, spectral theorem; infinite dimensional vector spaces; Jordan and rational canonical forms and applications."
+  },
+  "MATH 4080/6080": {
+    "title": "Advanced Algebra",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4010/6010"
+    ],
+    "description": "Linear algebra, groups, rings, and modules, intermediate in level between Modern Algebra and Geometry II and Algebra. Topics include the finite-dimensional spectral theorem, group actions, classification of finitely generated modules over principal ideal domains, and canonical forms of linear operators."
+  },
+  "MATH 4100/6100": {
+    "title": "Real Analysis",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "CSCI 2610",
+      "MATH 3100",
+      "MATH 3200",
+      "CSCI 2610E"
+    ],
+    "description": "Metric spaces and continuity; differentiable and integrable functions of one variable; sequences and series of functions."
+  },
+  "MATH 4110/6110": {
+    "title": "The Lebesgue Integral and Applications",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 4200/6200",
+      "MATH 4100/6100"
+    ],
+    "description": "The Lebesgue integral with applications to Fourier analysis and probability."
+  },
+  "MATH 4120/6120": {
+    "title": "Multivariable Analysis",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 3510",
+      "MATH 4200/6200",
+      "MATH 4100/6100"
+    ],
+    "description": "The derivative as a linear map, inverse and implicit function theorems, change of variables in multiple integrals; manifolds, differential forms, and the generalized Stokes' Theorem."
+  },
+  "MATH 4150/6150": {
+    "title": "Complex Variables",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 3100",
+      "MATH 2500",
+      "MATH 3510",
+      "MATH 2270"
+    ],
+    "description": "Differential and integral calculus of functions of a complex variable, with applications. Topics include the Cauchy integral formula, power series and Laurent series, and the residue theorem."
+  },
+  "MATH 4200/6200": {
+    "title": "Point Set Topology",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 3100",
+      "MATH 3200",
+      "MATH 3610"
+    ],
+    "description": "Topological spaces, continuity; connectedness, compactness; separation axioms and Tietze extension theorem; function spaces."
+  },
+  "MATH 4220/6220": {
+    "title": "Differential Topology",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 4100/6100",
+      "MATH 4200/6200",
+      "MATH 3510",
+      "MATH 4120/6120"
+    ],
+    "description": "Manifolds in Euclidean space: fundamental ideas of transversality, homotopy, and intersection theory; differential forms, Stokes' Theorem, deRham cohomology, and degree theory."
+  },
+  "MATH 4250/6250": {
+    "title": "Differential Geometry",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 3300",
+      "MATH 3200",
+      "MATH 2500",
+      "MATH 3510",
+      "MATH 2270",
+      "MATH 3000"
+    ],
+    "description": "The geometry of curves and surfaces in Euclidean space: Frenet formulas for curves, notions of curvature for surfaces; Gauss-Bonnet Theorem; discussion of non-Euclidean geometries."
+  },
+  "MATH 4300/6300": {
+    "title": "Introduction to Algebraic Curves",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4000/6000"
+    ],
+    "description": "Polynomials and resultants, projective spaces. The focus is on plane algebraic curves: intersection, Bezout's theorem, linear systems, rational curves, singularities, blowing up."
+  },
+  "MATH 4400/6400": {
+    "title": "Number Theory",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4000/6000"
+    ],
+    "description": "Euler's theorem, public key cryptology, pseudoprimes, multiplicative functions, primitive roots, quadratic reciprocity, continued fractions, sums of two squares and Gaussian integers."
+  },
+  "MATH 4450/6450": {
+    "title": "Cryptology and Computational Number Theory",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4000/6000"
+    ],
+    "description": "Recognizing prime numbers, factoring composite numbers, finite fields, elliptic curves, discrete logarithms, private key cryptology, key exchange systems, signature authentication, public key cryptology."
+  },
+  "MATH 4500/6500": {
+    "title": "Numerical Analysis I",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "CSCI 1360E",
+      "MATH 3300",
+      "MATH 3100",
+      "STAT 2360-2360L",
+      "MATH 3300E",
+      "ENGR 1140",
+      "CSCI 1301-1301L",
+      "MATH 3500",
+      "CSCI 1360",
+      "MATH 3000"
+    ],
+    "description": "Methods for finding approximate numerical solutions to a variety of mathematical problems, featuring careful error analysis. A mathematical software package will be used to implement iterative techniques for nonlinear equations, polynomial interpolation, integration, and problems in linear algebra such as matrix inversion, eigenvalues and eigenvectors."
+  },
+  "MATH 4510/6510": {
+    "title": "Numerical Analysis II",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2700",
+      "MATH 4500/6500",
+      "MATH 2500",
+      "MATH 3510",
+      "MATH 2270"
+    ],
+    "description": "Numerical solutions of ordinary and partial differential equations, higher-dimensional Newton's method, and splines."
+  },
+  "MATH 4600/6600": {
+    "title": "Probability",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 3100",
+      "MATH 2500",
+      "MATH 3510",
+      "MATH 2260",
+      "MATH 2270"
+    ],
+    "description": "Discrete and continuous random variables, expectation, independence and conditional probability; binomial, Bernoulli, normal, and Poisson distributions; law of large numbers and central limit theorem."
+  },
+  "MATH 4700/6700": {
+    "title": "Qualitative Ordinary Differential Equations",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 3300",
+      "MATH 2700",
+      "MATH 3200",
+      "MATH 3500",
+      "MATH 3000"
+    ],
+    "description": "Transform methods, linear and nonlinear systems of ordinary differential equations, stability, and chaos."
+  },
+  "MATH 4720/6720": {
+    "title": "Introduction to Partial Differential Equations",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2700",
+      "MATH 3100",
+      "MATH 2500",
+      "MATH 3510",
+      "MATH 2270"
+    ],
+    "description": "The basic partial differential equations of mathematical physics: Laplace's equation, the wave equation, and the heat equation. Separation of variables and Fourier series techniques are featured."
+  },
+  "MATH(MARS) 4730/6730": {
+    "title": "Mathematics of Climate",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2700"
+    ],
+    "description": "Basic mathematical models describing the physical, chemical, and biological interactions that affect climate. Mathematical and computational tools for analyzing these models."
+  },
+  "MATH 4740/6740": {
+    "title": "Optimization and Data Analysis",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 3300",
+      "MATH 2500E",
+      "MATH 3300E",
+      "MATH 3500",
+      "MATH 3000",
+      "MATH 2500",
+      "MATH 3510",
+      "MATH 2270E",
+      "MATH 2270"
+    ],
+    "description": "Constrained and unconstrained optimization methods and their applications in data analysis."
+  },
+  "MATH 4750/6750": {
+    "title": "Matrix and Integral Transforms with Applications",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 3300",
+      "MATH 3100",
+      "MATH 3200",
+      "MATH 3510",
+      "MATH 3000"
+    ],
+    "description": "Foundations in the most commonly used transforms in mathematics, science, and engineering. Eigenvector decompositions, Fourier transforms, singular value decompositions, and the Radon transform, with emphasis on mathematical structure and applications."
+  },
+  "MATH 4760/6760": {
+    "title": "Mathematics and Music",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 2700",
+      "MATH 2500",
+      "MATH 2260",
+      "MATH 2270"
+    ],
+    "description": "This course is intended for undergraduates (math majors, music majors, and others) interested in the mathematical aspects of music. At least some familiarity with musical notation is a prerequisite. Topics to be discussed include the structure of sound, the construction of scales, and synthesis. There is a serious writing component."
+  },
+  "MATH(BINF) 4780/6780": {
+    "title": "Mathematical Biology",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2700",
+      "MATH 4700/6700",
+      "MATH 2500",
+      "MATH 3510",
+      "MATH 2270"
+    ],
+    "description": "Mathematical models in the biological sciences, systems, phase-plane analysis, diffusion, convective transport, bifurcation analysis. Possible applications will include population models, infectious disease and epidemic models, acquired immunity and drug distribution, tumor growth, and analysis of arterial flow dynamics."
+  },
+  "MATH 4790/6790": {
+    "title": "The Mathematics of Option Pricing",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 3300",
+      "MATH 3200",
+      "MATH 2500",
+      "MATH 3510",
+      "MATH 2270",
+      "MATH 3000"
+    ],
+    "description": "Bonds, stock markets, derivatives, arbitrage, and binomial tree models for stocks and options, Black-Scholes formula for options pricing, hedging. Computational methods will be incorporated."
+  },
+  "MATH 4801": {
+    "title": "Mathematics Internship",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Students are permitted to enter an organization to obtain practical and applied experience. A paper describing and analyzing this experience is required."
+  },
+  "MATH 4802/6802": {
+    "title": "Industrial Mathematics",
+    "offered": [],
+    "hours": 3,
+    "requirements": [],
+    "description": "Students apply mathematical problem solving to complete an industry project."
+  },
+  "MATH 4850/6850": {
+    "title": "History of Mathematics",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "ST",
+      "SENI",
+      "ING"
+    ],
+    "description": "The development of mathematical thought from ancient times to the present, paying particular attention to the context of today's mathematics curriculum."
+  },
+  "MATH 4900/6900": {
+    "title": "Topics in Mathematics",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "ST",
+      "SENI",
+      "ING"
+    ],
+    "description": "A special topic not otherwise offered in the mathematics curriculum."
+  },
+  "MATH 4950": {
+    "title": "Research in Mathematics",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "Research in mathematics directed by a faculty member in the department of mathematics. A final report is required."
+  },
+  "MATH 4960R": {
+    "title": "Faculty-Mentored Undergraduate Research I",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, and synthesize and interpret data and to present results in writing and other relevant communication formats."
+  },
+  "MATH 4970R": {
+    "title": "Faculty-Mentored Undergraduate Research II",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, and synthesize and interpret data and to present results in writing and other relevant communication formats."
+  },
+  "MATH 4980R": {
+    "title": "Faculty-Mentored Undergraduate Research III",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, synthesize, and interpret data and to present results in writing and other relevant communication formats."
+  },
+  "MATH 4990R": {
+    "title": "Undergraduate Research Thesis (or Final Project)",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Faculty-supervised independent or collaborative inquiry into fundamental and applied problems within a discipline that requires students to gather, analyze, and synthesize and interpret data. Students will write or produce a thesis or other professional capstone product, such as a report or portfolio that describes their systematic and in-depth inquiry."
+  },
+  "MATH 5001W/7001W": {
+    "title": "Arithmetic and Problem Solving",
+    "offered": [],
+    "hours": 3,
+    "requirements": [],
+    "description": "Topics in mathematics designed for future elementary school teachers. Problem-solving. Number systems: whole numbers, integers, rational numbers (fractions), and real numbers (decimals), and the relationships between these systems. Understanding multiplication and division, including why standard computational algorithms work. Properties of arithmetic. Applications of elementary mathematics."
+  },
+  "MATH(EMAT) 5001E": {
+    "title": "Arithmetic and Problem Solving",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Topics in mathematics designed for future elementary school teachers. Problem-solving. Number systems: whole numbers, integers, rational numbers (fractions) and real numbers (decimals), and the relationships between these systems. Understanding multiplication and division, including why standard computational algorithms work. Properties of arithmetic. Applications of elementary mathematics."
+  },
+  "MATH(EMAT) 5001/7001": {
+    "title": "Arithmetic and Problem Solving",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Topics in mathematics designed for future elementary school teachers. Problem solving. Number systems: whole numbers, integers, rational numbers (fractions) and real numbers (decimals), and the relationships between these systems. Understanding multiplication and division, including why standard computational algorithms work. Properties of arithmetic. Applications of elementary mathematics."
+  },
+  "MATH(EMAT) 5002/7002": {
+    "title": "Geometry and Problem Solving",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH EMAT 7001E",
+      "MATH EMAT 5001/7001",
+      "MATH EMAT 5001E"
+    ],
+    "description": "A deep examination of mathematical topics designed for future elementary school teachers. Length, area, and volume. Geometric shapes and their properties. Probability. Elementary number theory. Applications of elementary mathematics."
+  },
+  "MATH(EMAT) 5003/7003": {
+    "title": "Algebra and Problem Solving",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH EMAT 5002/7002"
+    ],
+    "description": "A deep examination of topics in mathematics that are relevant for elementary school teaching. Probability, number theory, algebra and functions, including ratio and proportion. Posing and modifying problems."
+  },
+  "MATH(EMAT) 5020/7020": {
+    "title": "Arithmetic for Middle Grades Teachers",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2250",
+      "MATH 2250E",
+      "MATH 2200"
+    ],
+    "description": "A deep examination of topics in mathematics that are relevant for middle grades teachers. Reasoning about addition, subtraction, multiplication, and division within the base-ten system and with fractions. Deriving and explaining procedures and algorithms in arithmetic."
+  },
+  "MATH 5030/7030": {
+    "title": "Geometry and Measurement for Middle Grades Teachers",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 2250",
+      "MATH 2200"
+    ],
+    "description": "Principles of geometry and measurement for middle school teachers."
+  },
+  "MATH(EMAT) 5035/7035": {
+    "title": "Algebra for Middle Grades Teachers",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 2250",
+      "MATH 2250E",
+      "MATH 2200",
+      "MATH EMAT 5020/7020"
+    ],
+    "description": "A deep examination of topics in mathematics that are relevant for middle grades teachers. Reasoning about fraction division, ratio, proportional relationships, inversely proportional relationships, descriptive statistics, probability, factors, multiples, and prime numbers. Deriving and explaining equations and solution methods."
+  },
+  "MATH 5200W/7200W": {
+    "title": "Foundations of Geometry I",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 3300",
+      "MATH 3300E",
+      "MATH 3200",
+      "MATH 3500",
+      "MATH 3200W",
+      "MATH 3510",
+      "MATH 3000"
+    ],
+    "description": "Advanced elementary geometry for prospective teachers of secondary school mathematics: axiom systems and models; the parallel postulate; neutral, Euclidean, and non-Euclidean geometries."
+  },
+  "MATH 5200/7200": {
+    "title": "Foundations of Geometry I",
+    "offered": [
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 3300",
+      "MATH 3300E",
+      "MATH 3200",
+      "MATH 3500",
+      "MATH 3200W",
+      "MATH 3510",
+      "MATH 3000"
+    ],
+    "description": "Advanced elementary geometry for prospective teachers of secondary school mathematics: axiom systems and models; the parallel postulate; neutral, Euclidean, and non-Euclidean geometries."
+  },
+  "MATH 5210/7210": {
+    "title": "Foundations of Geometry II",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 5200/7200"
+    ],
+    "description": "Further development of the axioms and models for Euclidean and non-Euclidean geometry; transformation geometry."
+  },
+  "MATH 6800": {
+    "title": "Directed Reading and/or Projects",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "Directed reading and/or project at the master's level."
+  },
+  "MATH 7000": {
+    "title": "Master's Research",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Research while enrolled for a master's degree under the direction of faculty members."
+  },
+  "MATH(EMAT) 7001E": {
+    "title": "Arithmetic and Problem Solving",
+    "offered": [
+      "Summer"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Topics in mathematics designed for future elementary school teachers. Problem-solving. Number systems: whole numbers, integers, rational numbers (fractions) and real numbers (decimals), and the relationships between these systems. Understanding multiplication and division, including why standard computational algorithms work. Properties of arithmetic. Applications of elementary mathematics."
+  },
+  "MATH 7005": {
+    "title": "Graduate Student Seminar",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Advanced supervised experience in an applied setting. This course may not be used to satisfy a student's approved program of study."
+  },
+  "MATH 7040": {
+    "title": "Basic Ideas of Calculus I",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 2210"
+    ],
+    "description": "Survey of one-variable calculus in preparation for teaching calculus at the secondary level: combines review of basic techniques with careful study of underlying concepts."
+  },
+  "MATH 7050": {
+    "title": "Basic Ideas of Calculus II",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 2210"
+    ],
+    "description": "A continuation of Basic Ideas of Calculus I focusing on functions of several variables."
+  },
+  "MATH 7100": {
+    "title": "Technical Report",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "For use with the Master's degree in Applied Mathematical Science - Mathematics option."
+  },
+  "MATH 7300": {
+    "title": "Master's Thesis",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "Thesis writing under the direction of the major professor."
+  },
+  "MATH 7900": {
+    "title": "Foundations for Graduate Mathematics",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "An intensive review of techniques and material essential for graduate study in mathematics, including background in calculus and linear algebra. Emphasis is on small group study and presentations. Topics include proofs, induction, the metric structure of the reals, the Bolzano-Weierstrass theorem, and the diagonalization theorem."
+  },
+  "MATH 8000": {
+    "title": "Algebra I",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 4010/6010"
+    ],
+    "description": "Groups and rings, including Sylow theorems, classifying small groups, finitely generated abelian groups, Jordan-Holder theorem, solvable groups, simplicity of the alternating group, euclidean domains, principal ideal domains, unique factorization domains, noetherian rings, Hilbert basis theorem, Zorn's lemma, and existence of maximal ideals and vector space bases."
+  },
+  "MATH 8005": {
+    "title": "Problem Session in Algebra",
+    "offered": [],
+    "hours": 2,
+    "requirements": [],
+    "description": "Techniques and approaches to problems in algebra as an aid to mastery of the basic theory."
+  },
+  "MATH 8010": {
+    "title": "Algebra II",
+    "offered": [
+      "Spring"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 8000"
+    ],
+    "description": "Modules and fields, including noetherian modules, finitely generated modules over principal ideal domains, canonical forms of matrices, spectral theorems, tensor products, algebraic and transcendental field extensions, galois theory, solvability of polynomials, symmetric functions, cyclotomic extensions, finite fields, solution formulas for polynomials of low degree."
+  },
+  "MATH 8020": {
+    "title": "Commutative Algebra",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8000"
+    ],
+    "description": "Localization and completion, Nakayama's lemma, Dedekind domains, Hilbert's basis theorem, Hilbert's Nullstellensatz, Krull dimension, depth and Cohen-Macaulay rings, regular local rings."
+  },
+  "MATH 8030": {
+    "title": "Topics in Algebra",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8000"
+    ],
+    "description": "Topics in abstract algebra at the level of current research."
+  },
+  "MATH 8040": {
+    "title": "Representation Theory of Finite Groups",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8010"
+    ],
+    "description": "Irreducible and indecomposable representations, Schur's lemma, Maschke's theorem, the Wedderburn structure theorem, characters and orthogonality relations, induced representations and Frobenius reciprocity, central characters and central idempotents, Burnside's p^a q^b theorem, Frobenius normal p-complement theorem."
+  },
+  "MATH 8080": {
+    "title": "Lie Algebras",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8000"
+    ],
+    "description": "Nilpotent and solvable Lie algebras, structure and classification of semisimple Lie algebras, roots, weights, finite-dimensional representations."
+  },
+  "MATH 8100": {
+    "title": "Real Analysis I",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4100/6100"
+    ],
+    "description": "Measure and integration theory with relevant examples from Lebesgue integration, Hilbert spaces (only with regard to L^2), L^p spaces and the related Riesz representation theorem. Hahn, Jordan and Lebesgue decomposition theorems, Radon-Nikodym Theorem and Fubini's Theorem."
+  },
+  "MATH 8105": {
+    "title": "Problem Session in Real Analysis",
+    "offered": [],
+    "hours": 2,
+    "requirements": [],
+    "description": "Techniques and approaches to problems in real analysis as an aid to mastery of basic theory."
+  },
+  "MATH 8110": {
+    "title": "Real Analysis II",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8100"
+    ],
+    "description": "Topics including: Haar Integral, change of variable formula, Hahn-Banach theorem for Hilbert spaces, Banach spaces and Fourier theory (series, transform, Gelfand-Fourier homomorphism)."
+  },
+  "MATH 8130": {
+    "title": "Topics in Analysis",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8100",
+      "MATH 8150"
+    ],
+    "description": "Topics in analysis at the level of current research."
+  },
+  "MATH 8150": {
+    "title": "Complex Variables I",
+    "offered": [],
+    "hours": 3,
+    "requirements": [],
+    "description": "The Cauchy-Riemann Equations, linear fractional transformations and elementary conformal mappings, Cauchy's theorems and its consequences, including Morera's theorem, Taylor and Laurent expansions, maximum principle, residue theorem, argument principle, Rouche's theorem and Liouville's theorem."
+  },
+  "MATH 8155": {
+    "title": "Problem Session in Complex Analysis",
+    "offered": [],
+    "hours": 2,
+    "requirements": [],
+    "description": "Techniques and approaches to problems in complex analysis as an aid to mastery of the basic theory."
+  },
+  "MATH 8160": {
+    "title": "Complex Variables II",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8150"
+    ],
+    "description": "Topics including Riemann Mapping Theorem, elliptic functions, Mittag-Leffler and Weierstrass Theorems, analytic continuation and Riemann surfaces."
+  },
+  "MATH 8170": {
+    "title": "Functional Analysis I",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8100"
+    ],
+    "description": "Hilbert spaces and Banach spaces, spectral theory, topological vector spaces, convexity and its consequences, including the Krein-Milman theorem."
+  },
+  "MATH 8190": {
+    "title": "Lie Groups",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8250",
+      "MATH 8000"
+    ],
+    "description": "Classical groups, exponential map, Poincare-Birkhoff-Witt Theorem, homogeneous spaces, adjoint representation, covering groups, compact groups, Peter-Weyl Theorem, Weyl character formula."
+  },
+  "MATH 8200": {
+    "title": "Algebraic Topology",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4200/6200"
+    ],
+    "description": "The fundamental group, van Kampen's theorem, and covering spaces. Introduction to homology: simplicial, singular, and cellular. Applications."
+  },
+  "MATH 8205": {
+    "title": "Problem Session in Topology",
+    "offered": [],
+    "hours": 2,
+    "requirements": [],
+    "description": "Techniques and approaches to problems in topology as an aid to mastery of the basic theory."
+  },
+  "MATH 8210": {
+    "title": "Topology of Manifolds",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8200"
+    ],
+    "description": "Poincare duality, deRham's theorem, topics from differential topology."
+  },
+  "MATH 8230": {
+    "title": "Topics in Topology and Geometry",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8200"
+    ],
+    "description": "Advanced topics in topology and/or differential geometry leading to and including research level material."
+  },
+  "MATH 8250": {
+    "title": "Differential Geometry I",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4200/6200"
+    ],
+    "description": "Differentiable manifolds, vector bundles, tensors, flows, and Frobenius' theorem. Introduction to Riemannian geometry."
+  },
+  "MATH 8260": {
+    "title": "Differential Geometry II",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8250"
+    ],
+    "description": "Riemannian geometry: connections, curvature, first and second variation; geometry of submanifolds. Gauss-Bonnet theorem. Additional topics, such as characteristic classes, complex manifolds, integral geometry."
+  },
+  "MATH 8300": {
+    "title": "Introduction to Algebraic Geometry",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8000"
+    ],
+    "description": "An invitation to algebraic geometry through a study of examples. Affine and projective varieties, regular and rational maps, Nullstellensatz. Veronese and Segre varieties, Grassmannians, algebraic groups, quadrics. Smoothness and tangent spaces, singularities and tangent cones."
+  },
+  "MATH 8310": {
+    "title": "Geometry of Schemes",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8300",
+      "MATH 8020"
+    ],
+    "description": "The language of Grothendieck's theory of schemes. Topics include the spectrum of a ring, \"gluing\" spectra to form schemes, products, quasi-coherent sheaves of ideals, and the functor of points."
+  },
+  "MATH 8315": {
+    "title": "Sheaves and Cohomology",
+    "offered": [
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [
+      "MATH 8300"
+    ],
+    "description": "Main results and techniques for sheaves on topological spaces and their cohomology."
+  },
+  "MATH 8320": {
+    "title": "Algebraic Curves",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8300"
+    ],
+    "description": "The theory of curves, including linear series and the Riemann Roch theorem. Either the algebraic (variety), arithmetic (function field), or analytic (Riemann surface) aspect of the subject may be emphasized in different years."
+  },
+  "MATH 8330": {
+    "title": "Topics in Algebraic Geometry",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8300"
+    ],
+    "description": "Advanced topics such as algebraic surfaces, or cohomology and sheaves."
+  },
+  "MATH 8400": {
+    "title": "Algebraic/Analytic Number Theory I",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4080/6080"
+    ],
+    "description": "The core material of algebraic number theory: number fields, rings of integers, discriminants, ideal class groups, Dirichlet's unit theorem, splitting of primes; p-adic fields, Hensel's lemma, adeles and ideles, the strong approximation theorem."
+  },
+  "MATH 8410": {
+    "title": "Algebraic/Analytic Number Theory II",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8400"
+    ],
+    "description": "A continuation of Algebraic and Analytic Number Theory I, introducing analytic methods: the Riemann Zeta function, its analytic continuation and functional equation, the Prime number theorem; sieves, the Bombieri-Vinogradov theorem, the Chebotarev density theorem."
+  },
+  "MATH 8430": {
+    "title": "Topics in Arithmetic Geometry",
+    "offered": [],
+    "hours": 3,
+    "requirements": [],
+    "description": "Topics in Algebraic number theory and Arithmetic geometry, such as class field theory, Iwasawa theory, elliptic curves, complex multiplication, cohomology theories, Arakelov theory, diophantine geometry, automorphic forms, L-functions, representation theory."
+  },
+  "MATH 8440": {
+    "title": "Topics in Combinatorial/Analytic Number Theory",
+    "offered": [],
+    "hours": 3,
+    "requirements": [],
+    "description": "Topics in combinatorial and analytic number theory, such as sieve methods, probabilistic models of prime numbers, the distribution of arithmetic functions, the circle method, additive number theory, transcendence methods."
+  },
+  "MATH 8500": {
+    "title": "Advanced Numerical Analysis I",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4510/6510",
+      "MATH 4100/6100"
+    ],
+    "description": "Numerical solution of nonlinear equations in one and several variables, numerical methods for constrained and unconstrained optimization, numerical solution of linear systems, numerical methods for computing eigenvalues and eigenvectors, numerical solution of linear least squares problems, computer applications for applied problems."
+  },
+  "MATH 8505": {
+    "title": "Problem Session in Numerical Analysis",
+    "offered": [],
+    "hours": 2,
+    "requirements": [],
+    "description": "Techniques and approaches to problems in numerical analysis as an aid to mastery of the basic theory."
+  },
+  "MATH 8510": {
+    "title": "Advanced Numerical Analysis II",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8500"
+    ],
+    "description": "Polynomial and spline interpolation and approximation theory, numerical integration methods, numerical solution of ordinary differential equations, computer applications for applied problems."
+  },
+  "MATH 8550": {
+    "title": "Special Topics in Numerical Analysis",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8500"
+    ],
+    "description": "Special topics in numerical analysis, including iterative methods for large linear systems, computer aided geometric design, multivariate splines, numerical solutions for pde's, numerical quadrature and cubature, numerical optimization, wavelet analysis for numerical imaging. In any semester, one of the above topics will be covered."
+  },
+  "MATH 8600": {
+    "title": "Probability",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8100"
+    ],
+    "description": "Probability spaces, random variables, distributions, expectation and higher moments, conditional probability and expectation, convergence of sequences and series of random variables, strong and weak laws of large numbers, characteristic functions, infinitely divisible distributions, weak convergence of measures, central limit theorems."
+  },
+  "MATH 8605": {
+    "title": "Problem Session in Probability",
+    "offered": [],
+    "hours": 2,
+    "requirements": [],
+    "description": "Techniques and approaches to problems in probability as an aid to mastery of the basic theory."
+  },
+  "MATH 8630": {
+    "title": "Stochastic Analysis",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8100"
+    ],
+    "description": "Conditional expectation, Brownian motion, semimartingales, stochastic calculus, stochastic differential equations, stochastic control, stochastic filtering."
+  },
+  "MATH 8710": {
+    "title": "Applied Mathematics: Variational Methods/Perturbation Theory",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4100/6100"
+    ],
+    "description": "Calculus of variations, Euler-Lagrange equations, Hamilton's principle, approximate methods, eigenvalue problems, asymptotic expansions, method of steepest descent, method of stationary phase, perturbation of eigenvalues, nonlinear eigenvalue problems, oscillations and periodic solutions, Hopf bifurcation, singular perturbation theory, applications."
+  },
+  "MATH 8740": {
+    "title": "Ordinary Differential Equations",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4100/6100"
+    ],
+    "description": "Solutions of initial value problems: existence, uniqueness, and dependence on parameters, differential inequalities, maximal and minimal solutions, continuation of solutions, linear systems, self-adjoint eigenvalue problems, Floquet Theory."
+  },
+  "MATH 8750": {
+    "title": "Introduction to Dynamical Systems",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 8740"
+    ],
+    "description": "Continuous dynamical systems, trajectories, periodic orbits, invariant sets, structure of alpha and omega limit sets, applications to two-dimensional autonomous systems of ODE's, Poincare-Bendixson Theorem, discrete dynamical systems, infinite dimensional spaces, semi-dynamical systems, functional differential equations."
+  },
+  "MATH 8770": {
+    "title": "Partial Differential Equations",
+    "offered": [],
+    "hours": 3,
+    "requirements": [
+      "MATH 4100/6100"
+    ],
+    "description": "Classification of second order linear partial differential equations, modern treatment of characteristics, function spaces, Sobolev spaces, Fourier transform of generalized functions, generalized and classical solutions, initial and boundary value problems, eigenvalue problems."
+  },
+  "MATH 8800": {
+    "title": "Directed Reading and/or Projects",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "Directed reading and/or project at the doctoral level."
+  },
+  "MATH 8850": {
+    "title": "Directed Collaborative Research",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Research in a group setting on a topic of current interest in mathematics, under the direction of one or more faculty members. Emphasis will be given to problems that may be accessible to elementary methods. An introduction to basic research methods in mathematics, as well as expository and literature-search skills. Required for all first year graduate students."
+  },
+  "MATH 8900": {
+    "title": "Seminar in Algebra",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "A study of some phase of current research in algebra."
+  },
+  "MATH 8910": {
+    "title": "Seminar in Analysis",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "A study of some phase of current research in analysis."
+  },
+  "MATH 8920": {
+    "title": "Seminar in Topology",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "A study of some phase of current research in topology."
+  },
+  "MATH 8930": {
+    "title": "Seminar in Algebraic Geometry",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "A study of some phase of current research in algebraic geometry."
+  },
+  "MATH 8940": {
+    "title": "Seminar in Number Theory",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "A study of some phase of current research in number theory."
+  },
+  "MATH 8950": {
+    "title": "Seminar in Numerical Analysis",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "A study of some phase of current research in numerical analysis."
+  },
+  "MATH 8960": {
+    "title": "Seminar in Probability",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "A study of some phase of current research in probability."
+  },
+  "MATH 8970": {
+    "title": "Seminar in Applied Mathematics",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "A study of some phase of current research in applied mathematics."
+  },
+  "MATH 8980": {
+    "title": "Seminar in Geometry",
+    "offered": [],
+    "hours": 1,
+    "requirements": [],
+    "description": "A study of some phase of current research in geometry."
+  },
+  "MATH 9000": {
+    "title": "Doctoral Research",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Research while enrolled for a doctoral degree under the direction of faculty members."
+  },
+  "MATH 9005": {
+    "title": "Doctoral Graduate Student Seminar",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 3,
+    "requirements": [],
+    "description": "Advanced supervised experience in an applied setting. This course may not be used to satisfy a student's approved program of study."
+  },
+  "MATH 9300": {
+    "title": "Doctoral Dissertation",
+    "offered": [
+      "Summer",
+      "Spring",
+      "Fall"
+    ],
+    "hours": 1,
+    "requirements": [],
+    "description": "Dissertation writing under the direction of the major professor."
+  }
+}
